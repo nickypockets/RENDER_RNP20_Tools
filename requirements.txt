@@ -1,0 +1,15 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.14.0
+requests>=2.31.0
+matplotlib>=3.7.0
+
+# Dune Analytics API
+dune-client>=1.0.0
+python-dotenv>=1.0.0
+
+# Optional: Advanced statistical analysis
+# Uncomment if you want advanced burn processing features
+statsmodels>=0.14.0
+scipy>=1.10.0

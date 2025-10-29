@@ -1,0 +1,6 @@
+# ignore environment / secret files
+.env
+__pycache__/
+.vscode/
+future_sims/
+.venv/

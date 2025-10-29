@@ -1,0 +1,776 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "startDate": "2023-12-20T00:00:00.000Z",
+      "endDate": "2023-12-27T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 75489.99875855217,
+      "burnedRender": 14998.5,
+      "totalRenderUsed": 288038.05
+    },
+    {
+      "id": 2,
+      "startDate": "2023-12-27T02:00:00.000Z",
+      "endDate": "2024-01-03T02:00:00.000Z",
+      "burnedRenderUSDCAmt": 12732.797020229633,
+      "burnedRender": 2630.25,
+      "totalRenderUsed": 49027.97
+    },
+    {
+      "id": 3,
+      "startDate": "2024-01-03T00:00:00.000Z",
+      "endDate": "2024-01-10T02:00:00.000Z",
+      "burnedRenderUSDCAmt": 15907.338648028828,
+      "burnedRender": 3962,
+      "totalRenderUsed": 61332
+    },
+    {
+      "id": 4,
+      "startDate": "2024-01-10T02:00:00.000Z",
+      "endDate": "2024-01-17T02:00:00.000Z",
+      "burnedRenderUSDCAmt": 7169.613544950536,
+      "burnedRender": 1748.73,
+      "totalRenderUsed": 27769.8
+    },
+    {
+      "id": 5,
+      "startDate": "2024-01-17T00:00:00.000Z",
+      "endDate": "2024-01-24T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 11012.528871177617,
+      "burnedRender": 2858.36,
+      "totalRenderUsed": 42761.07
+    },
+    {
+      "id": 6,
+      "startDate": "2024-01-24T00:00:00.000Z",
+      "endDate": "2024-01-31T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 13002.18777103209,
+      "burnedRender": 2732.56,
+      "totalRenderUsed": 50497.76
+    },
+    {
+      "id": 7,
+      "startDate": "2024-01-31T00:00:00.000Z",
+      "endDate": "2024-02-07T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 13646.166272443821,
+      "burnedRender": 3121.57,
+      "totalRenderUsed": 53441.26
+    },
+    {
+      "id": 8,
+      "startDate": "2024-02-07T00:00:00.000Z",
+      "endDate": "2024-02-14T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 7763.037722210323,
+      "burnedRender": 1556.52941296,
+      "totalRenderUsed": 30522.63
+    },
+    {
+      "id": 9,
+      "startDate": "2024-02-14T00:00:00.000Z",
+      "endDate": "2024-02-21T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 8231.941354357921,
+      "burnedRender": 1238.47553436,
+      "totalRenderUsed": 32092.44
+    },
+    {
+      "id": 10,
+      "startDate": "2024-02-21T00:00:00.000Z",
+      "endDate": "2024-02-28T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 15535.454236827809,
+      "burnedRender": 2090.17360561,
+      "totalRenderUsed": 60212.15
+    },
+    {
+      "id": 11,
+      "startDate": "2024-02-28T00:00:00.000Z",
+      "endDate": "2024-03-06T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 18702.756563245825,
+      "burnedRender": 2620.79280108,
+      "totalRenderUsed": 72590.32
+    },
+    {
+      "id": 12,
+      "startDate": "2024-03-06T00:00:00.000Z",
+      "endDate": "2024-03-13T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 22080.147388263576,
+      "burnedRender": 1863.95080797,
+      "totalRenderUsed": 85075.97
+    },
+    {
+      "id": 13,
+      "startDate": "2024-03-13T00:00:00.000Z",
+      "endDate": "2024-03-20T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 40878.68265261768,
+      "burnedRender": 3552.2446862100005,
+      "totalRenderUsed": 158454.38000000003
+    },
+    {
+      "id": 14,
+      "startDate": "2024-03-20T00:00:00.000Z",
+      "endDate": "2024-03-27T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 21170.86891730792,
+      "burnedRender": 1760.4553682800001,
+      "totalRenderUsed": 82249.93999999987
+    },
+    {
+      "id": 15,
+      "startDate": "2024-03-27T00:00:00.000Z",
+      "endDate": "2024-04-03T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 11926.219479401963,
+      "burnedRender": 883.3103969600003,
+      "totalRenderUsed": 46685.50000000001
+    },
+    {
+      "id": 16,
+      "startDate": "2024-04-03T00:00:00.000Z",
+      "endDate": "2024-04-10T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 25179.989690721683,
+      "burnedRender": 3357.4949795599982,
+      "totalRenderUsed": 97698.36000000023
+    },
+    {
+      "id": 17,
+      "startDate": "2024-04-10T00:00:00.000Z",
+      "endDate": "2024-04-17T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 15058.185847754514,
+      "burnedRender": 1246.4188052599998,
+      "totalRenderUsed": 59719.180000000124
+    },
+    {
+      "id": 18,
+      "startDate": "2024-04-17T00:00:00.000Z",
+      "endDate": "2024-04-24T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 11802.519798801392,
+      "burnedRender": 1211.8778048700003,
+      "totalRenderUsed": 46434.83999999989
+    },
+    {
+      "id": 19,
+      "startDate": "2024-04-24T00:00:00.000Z",
+      "endDate": "2024-05-01T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 16373.339154313717,
+      "burnedRender": 1914.9587122700002,
+      "totalRenderUsed": 64645.390000000014
+    },
+    {
+      "id": 20,
+      "startDate": "2024-05-01T00:00:00.000Z",
+      "endDate": "2024-05-08T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 22530.507443035276,
+      "burnedRender": 2104.03389417,
+      "totalRenderUsed": 88262.67000000001
+    },
+    {
+      "id": 21,
+      "startDate": "2024-05-08T00:00:00.000Z",
+      "endDate": "2024-05-15T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 18776.956968320883,
+      "burnedRender": 2286.3865163199985,
+      "totalRenderUsed": 73123.40000000002
+    },
+    {
+      "id": 22,
+      "startDate": "2024-05-15T00:00:00.000Z",
+      "endDate": "2024-05-22T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 13523.657483104578,
+      "burnedRender": 1215.0122755899995,
+      "totalRenderUsed": 52238.33000000009
+    },
+    {
+      "id": 23,
+      "startDate": "2024-05-22T00:00:00.000Z",
+      "endDate": "2024-05-29T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 19250.592519257887,
+      "burnedRender": 1700.8745837100003,
+      "totalRenderUsed": 74708.5099999997
+    },
+    {
+      "id": 24,
+      "startDate": "2024-05-29T00:00:00.000Z",
+      "endDate": "2024-06-05T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 31978.3807838868,
+      "burnedRender": 3189.0143770100003,
+      "totalRenderUsed": 123672.18000000005
+    },
+    {
+      "id": 25,
+      "startDate": "2024-06-05T00:00:00.000Z",
+      "endDate": "2024-06-12T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 21285.07472097017,
+      "burnedRender": 2215.996273540001,
+      "totalRenderUsed": 83509.18999999977
+    },
+    {
+      "id": 26,
+      "startDate": "2024-06-12T00:00:00.000Z",
+      "endDate": "2024-06-19T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 29047.8535583943,
+      "burnedRender": 3368.706162219996,
+      "totalRenderUsed": 113940.96999999999
+    },
+    {
+      "id": 27,
+      "startDate": "2024-06-19T00:00:00.000Z",
+      "endDate": "2024-06-26T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 13883.02969051189,
+      "burnedRender": 1783.7669309300004,
+      "totalRenderUsed": 54585.150000000045
+    },
+    {
+      "id": 28,
+      "startDate": "2024-06-26T00:00:00.000Z",
+      "endDate": "2024-07-03T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 35972.743794326234,
+      "burnedRender": 4743.326014869999,
+      "totalRenderUsed": 140952.57
+    },
+    {
+      "id": 29,
+      "startDate": "2024-07-03T00:00:00.000Z",
+      "endDate": "2024-07-10T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 12397.715909090888,
+      "burnedRender": 1791.8171300800009,
+      "totalRenderUsed": 48233.639999999985
+    },
+    {
+      "id": 30,
+      "startDate": "2024-07-10T00:00:00.000Z",
+      "endDate": "2024-07-17T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 14824.58483213438,
+      "burnedRender": 2323.1666183800016,
+      "totalRenderUsed": 57263.47000000001
+    },
+    {
+      "id": 31,
+      "startDate": "2024-07-17T00:00:00.000Z",
+      "endDate": "2024-07-24T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 12954.663346721798,
+      "burnedRender": 1395.4273426700001,
+      "totalRenderUsed": 50247.73000000006
+    },
+    {
+      "id": 32,
+      "startDate": "2024-07-24T00:00:00.000Z",
+      "endDate": "2024-07-31T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 31401.88568260536,
+      "burnedRender": 6131.40339617,
+      "totalRenderUsed": 122222.74999999997
+    },
+    {
+      "id": 33,
+      "startDate": "2024-07-31T00:00:00.000Z",
+      "endDate": "2024-08-07T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 52014.04378885392,
+      "burnedRender": 7913.627162829998,
+      "totalRenderUsed": 200807.06000000145
+    },
+    {
+      "id": 34,
+      "startDate": "2024-08-07T00:00:00.000Z",
+      "endDate": "2024-08-14T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 34808.335668754895,
+      "burnedRender": 7357.332258520003,
+      "totalRenderUsed": 133356.22999999992
+    },
+    {
+      "id": 35,
+      "startDate": "2024-08-14T00:00:00.000Z",
+      "endDate": "2024-08-21T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 19017.790044493708,
+      "burnedRender": 2560.97382406,
+      "totalRenderUsed": 71987.33999999998
+    },
+    {
+      "id": 36,
+      "startDate": "2024-08-21T00:00:00.000Z",
+      "endDate": "2024-08-28T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 11802.224843645294,
+      "burnedRender": 1751.6564833900002,
+      "totalRenderUsed": 44495.629999999954
+    },
+    {
+      "id": 37,
+      "startDate": "2024-08-28T00:00:00.000Z",
+      "endDate": "2024-09-04T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 18496.190502484817,
+      "burnedRender": 4930.875550670001,
+      "totalRenderUsed": 70519.16000000002
+    },
+    {
+      "id": 38,
+      "startDate": "2024-09-04T00:00:00.000Z",
+      "endDate": "2024-09-11T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 28902.070019832532,
+      "burnedRender": 4920.6373652699995,
+      "totalRenderUsed": 110448.49999999974
+    },
+    {
+      "id": 39,
+      "startDate": "2024-09-11T00:00:00.000Z",
+      "endDate": "2024-09-18T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 53463.0594483372,
+      "burnedRender": 7560.59591228,
+      "totalRenderUsed": 202394.25999999992
+    },
+    {
+      "id": 40,
+      "startDate": "2024-09-18T00:00:00.000Z",
+      "endDate": "2024-09-25T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 41125.08113249785,
+      "burnedRender": 9186.62357780001,
+      "totalRenderUsed": 154734.20000000036
+    },
+    {
+      "id": 41,
+      "startDate": "2024-09-25T00:00:00.000Z",
+      "endDate": "2024-10-02T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 55664.06184195932,
+      "burnedRender": 8242.991136589997,
+      "totalRenderUsed": 211476.56000000038
+    },
+    {
+      "id": 42,
+      "startDate": "2024-10-02T00:00:00.000Z",
+      "endDate": "2024-10-09T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 94879.80341856886,
+      "burnedRender": 15979.78744764001,
+      "totalRenderUsed": 364018.8500000004
+    },
+    {
+      "id": 43,
+      "startDate": "2024-10-09T00:00:00.000Z",
+      "endDate": "2024-10-16T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 100044.33645674447,
+      "burnedRender": 16524.48606675,
+      "totalRenderUsed": 386613.4400000002
+    },
+    {
+      "id": 44,
+      "startDate": "2024-10-16T00:00:00.000Z",
+      "endDate": "2024-10-23T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 29887.959233261474,
+      "burnedRender": 7736.485974249999,
+      "totalRenderUsed": 116531.57999999991
+    },
+    {
+      "id": 45,
+      "startDate": "2024-10-23T00:00:00.000Z",
+      "endDate": "2024-10-30T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 10729.24187872225,
+      "burnedRender": 1487.2998218999994,
+      "totalRenderUsed": 41719.80999999996
+    },
+    {
+      "id": 46,
+      "startDate": "2024-10-30T00:00:00.000Z",
+      "endDate": "2024-11-06T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 32419.8578490277,
+      "burnedRender": 6446.195599960002,
+      "totalRenderUsed": 124956.37000000005
+    },
+    {
+      "id": 47,
+      "startDate": "2024-11-06T00:00:00.000Z",
+      "endDate": "2024-11-13T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 49167.2230691054,
+      "burnedRender": 8811.088767169995,
+      "totalRenderUsed": 193522.18999999965
+    },
+    {
+      "id": 48,
+      "startDate": "2024-11-13T00:00:00.000Z",
+      "endDate": "2024-11-20T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 64876.858366027,
+      "burnedRender": 8854.366357660005,
+      "totalRenderUsed": 257622.59000000058
+    },
+    {
+      "id": 49,
+      "startDate": "2024-11-20T00:00:00.000Z",
+      "endDate": "2024-11-27T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 54691.85434372036,
+      "burnedRender": 7879.664116089994,
+      "totalRenderUsed": 219481.28999999998
+    },
+    {
+      "id": 50,
+      "startDate": "2024-11-27T00:00:00.000Z",
+      "endDate": "2024-12-04T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 80382.47923675356,
+      "burnedRender": 9128.643103540013,
+      "totalRenderUsed": 321936.0599999997
+    },
+    {
+      "id": 51,
+      "startDate": "2024-12-04T00:00:00.000Z",
+      "endDate": "2024-12-11T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 153796.45929804287,
+      "burnedRender": 16805.12133857,
+      "totalRenderUsed": 615315.3500000018
+    },
+    {
+      "id": 52,
+      "startDate": "2024-12-11T00:00:00.000Z",
+      "endDate": "2024-12-18T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 295071.25091805786,
+      "burnedRender": 31531.54575798001,
+      "totalRenderUsed": 1184136.459999996
+    },
+    {
+      "id": 53,
+      "startDate": "2024-12-18T00:00:00.000Z",
+      "endDate": "2024-12-25T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 158411.57201496337,
+      "burnedRender": 21401.755091680006,
+      "totalRenderUsed": 641850.3400000008
+    },
+    {
+      "id": 54,
+      "startDate": "2024-12-25T00:00:00.000Z",
+      "endDate": "2025-01-01T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 109618.6255825994,
+      "burnedRender": 30717.755562189974,
+      "totalRenderUsed": 445628.56000000116
+    },
+    {
+      "id": 55,
+      "startDate": "2025-01-01T00:00:00.000Z",
+      "endDate": "2025-01-08T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 17487.815212897873,
+      "burnedRender": 4737.404229019995,
+      "totalRenderUsed": 71247.19999999998
+    },
+    {
+      "id": 56,
+      "startDate": "2025-01-08T00:00:00.000Z",
+      "endDate": "2025-01-15T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 18350.69388648537,
+      "burnedRender": 2575.5930214399978,
+      "totalRenderUsed": 75009.90999999974
+    },
+    {
+      "id": 57,
+      "startDate": "2025-01-15T00:00:00.000Z",
+      "endDate": "2025-01-22T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 26036.32937747236,
+      "burnedRender": 3579.597069960003,
+      "totalRenderUsed": 105307.36000000003
+    },
+    {
+      "id": 58,
+      "startDate": "2025-01-22T00:00:00.000Z",
+      "endDate": "2025-01-29T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 40564.294480925484,
+      "burnedRender": 5904.6381734799925,
+      "totalRenderUsed": 163862.66999999993
+    },
+    {
+      "id": 59,
+      "startDate": "2025-01-29T00:00:00.000Z",
+      "endDate": "2025-02-05T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 24527.475764644947,
+      "burnedRender": 4335.54701605,
+      "totalRenderUsed": 99607.36999999984
+    },
+    {
+      "id": 60,
+      "startDate": "2025-02-05T00:00:00.000Z",
+      "endDate": "2025-02-12T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 68771.79294891717,
+      "burnedRender": 15417.161283070014,
+      "totalRenderUsed": 279459.6100000005
+    },
+    {
+      "id": 61,
+      "startDate": "2025-02-12T00:00:00.000Z",
+      "endDate": "2025-02-19T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 28637.094827586192,
+      "burnedRender": 6386.8504838200015,
+      "totalRenderUsed": 115392.4199999999
+    },
+    {
+      "id": 62,
+      "startDate": "2025-02-19T00:00:00.000Z",
+      "endDate": "2025-02-26T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 29525.786769344006,
+      "burnedRender": 7091.632358249998,
+      "totalRenderUsed": 118252.32999999958
+    },
+    {
+      "id": 63,
+      "startDate": "2025-02-26T00:00:00.000Z",
+      "endDate": "2025-03-05T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 37096.03027810278,
+      "burnedRender": 9955.109162170002,
+      "totalRenderUsed": 147150.18999999974
+    },
+    {
+      "id": 64,
+      "startDate": "2025-03-05T00:00:00.000Z",
+      "endDate": "2025-03-12T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 29080.339942183924,
+      "burnedRender": 8701.71287229,
+      "totalRenderUsed": 112243.99000000008
+    },
+    {
+      "id": 65,
+      "startDate": "2025-03-12T00:00:00.000Z",
+      "endDate": "2025-03-19T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 26503.145099540667,
+      "burnedRender": 8662.674441749998,
+      "totalRenderUsed": 102017.57999999983
+    },
+    {
+      "id": 66,
+      "startDate": "2025-03-19T00:00:00.000Z",
+      "endDate": "2025-03-26T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 24824.89440608476,
+      "burnedRender": 7138.36960700999,
+      "totalRenderUsed": 96885.02999999988
+    },
+    {
+      "id": 67,
+      "startDate": "2025-03-26T00:00:00.000Z",
+      "endDate": "2025-04-02T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 29527.778302395895,
+      "burnedRender": 7897.795772359994,
+      "totalRenderUsed": 115201.8500000003
+    },
+    {
+      "id": 68,
+      "startDate": "2025-04-02T00:00:00.000Z",
+      "endDate": "2025-04-09T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 22845.379790271287,
+      "burnedRender": 7306.244074919994,
+      "totalRenderUsed": 87601.21000000021
+    },
+    {
+      "id": 69,
+      "startDate": "2025-04-09T00:00:00.000Z",
+      "endDate": "2025-04-16T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 66606.60413843743,
+      "burnedRender": 17845.119123700013,
+      "totalRenderUsed": 248365.50999999946
+    },
+    {
+      "id": 70,
+      "startDate": "2025-04-16T00:00:00.000Z",
+      "endDate": "2025-04-23T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 37317.55454545461,
+      "burnedRender": 9330.080680970026,
+      "totalRenderUsed": 138271.35999999967
+    },
+    {
+      "id": 71,
+      "startDate": "2025-04-23T00:00:00.000Z",
+      "endDate": "2025-04-30T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 29364.235510134295,
+      "burnedRender": 6683.556604090002,
+      "totalRenderUsed": 108579.67000000009
+    },
+    {
+      "id": 72,
+      "startDate": "2025-04-30T00:00:00.000Z",
+      "endDate": "2025-05-07T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 52121.40848264915,
+      "burnedRender": 12079.624827939995,
+      "totalRenderUsed": 193518.56000000026
+    },
+    {
+      "id": 73,
+      "startDate": "2025-05-07T00:00:00.000Z",
+      "endDate": "2025-05-14T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 54120.12053921008,
+      "burnedRender": 11668.520184419998,
+      "totalRenderUsed": 203696.74000000028
+    },
+    {
+      "id": 74,
+      "startDate": "2025-05-14T00:00:00.000Z",
+      "endDate": "2025-05-21T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 37628.61832448908,
+      "burnedRender": 8006.30791857999,
+      "totalRenderUsed": 140327.02
+    },
+    {
+      "id": 75,
+      "startDate": "2025-05-21T00:00:00.000Z",
+      "endDate": "2025-05-28T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 43373.013921968915,
+      "burnedRender": 9192.173344110006,
+      "totalRenderUsed": 161018.8899999994
+    },
+    {
+      "id": 76,
+      "startDate": "2025-05-28T00:00:00.000Z",
+      "endDate": "2025-06-04T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 53900.08823864283,
+      "burnedRender": 13461.071005920006,
+      "totalRenderUsed": 199328.19999999972
+    },
+    {
+      "id": 77,
+      "startDate": "2025-06-04T00:00:00.000Z",
+      "endDate": "2025-06-11T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 45088.561420565115,
+      "burnedRender": 11788.513371349994,
+      "totalRenderUsed": 165982.8600000004
+    },
+    {
+      "id": 78,
+      "startDate": "2025-06-11T00:00:00.000Z",
+      "endDate": "2025-06-18T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 52595.64108455875,
+      "burnedRender": 15249.181211270003,
+      "totalRenderUsed": 192754.72000000032
+    },
+    {
+      "id": 79,
+      "startDate": "2025-06-18T00:00:00.000Z",
+      "endDate": "2025-06-25T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 71847.82694541223,
+      "burnedRender": 24113.857212199986,
+      "totalRenderUsed": 260467.27999999985
+    },
+    {
+      "id": 80,
+      "startDate": "2025-06-25T00:00:00.000Z",
+      "endDate": "2025-07-02T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 63150.417502655546,
+      "burnedRender": 20267.890381349975,
+      "totalRenderUsed": 225294.09999999986
+    },
+    {
+      "id": 81,
+      "startDate": "2025-07-02T00:00:00.000Z",
+      "endDate": "2025-07-09T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 96904.7221570925,
+      "burnedRender": 30677.34081706002,
+      "totalRenderUsed": 348040.9599999991
+    },
+    {
+      "id": 82,
+      "startDate": "2025-07-09T00:00:00.000Z",
+      "endDate": "2025-07-16T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 22422.781133829056,
+      "burnedRender": 6465.677139529993,
+      "totalRenderUsed": 81269.59999999987
+    },
+    {
+      "id": 83,
+      "startDate": "2025-07-16T00:00:00.000Z",
+      "endDate": "2025-07-23T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 22262.288511212857,
+      "burnedRender": 5281.052988879999,
+      "totalRenderUsed": 79834.90999999996
+    },
+    {
+      "id": 84,
+      "startDate": "2025-07-23T00:00:00.000Z",
+      "endDate": "2025-07-30T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 39628.74234546508,
+      "burnedRender": 9660.524947250005,
+      "totalRenderUsed": 144415.48000000013
+    },
+    {
+      "id": 85,
+      "startDate": "2025-07-30T00:00:00.000Z",
+      "endDate": "2025-08-06T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 39941.09297209674,
+      "burnedRender": 11065.771566489988,
+      "totalRenderUsed": 145251.0399999998
+    },
+    {
+      "id": 86,
+      "startDate": "2025-08-06T00:00:00.000Z",
+      "endDate": "2025-08-13T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 30202.1841766975,
+      "burnedRender": 8054.028869770001,
+      "totalRenderUsed": 108816.87999999993
+    },
+    {
+      "id": 87,
+      "startDate": "2025-08-13T00:00:00.000Z",
+      "endDate": "2025-08-20T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 59896.25029103613,
+      "burnedRender": 15343.927794779998,
+      "totalRenderUsed": 216635.2800000003
+    },
+    {
+      "id": 88,
+      "startDate": "2025-08-20T00:00:00.000Z",
+      "endDate": "2025-08-27T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 65780.57095891994,
+      "burnedRender": 18227.422254350007,
+      "totalRenderUsed": 238001.02999999985
+    },
+    {
+      "id": 89,
+      "startDate": "2025-08-27T00:00:00.000Z",
+      "endDate": "2025-09-03T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 165179.60510999936,
+      "burnedRender": 46808.130339970056,
+      "totalRenderUsed": 597498.099999999
+    },
+    {
+      "id": 90,
+      "startDate": "2025-09-03T00:00:00.000Z",
+      "endDate": "2025-09-10T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 44188.87755997651,
+      "burnedRender": 12804.023396370001,
+      "totalRenderUsed": 158986.93000000005
+    },
+    {
+      "id": 91,
+      "startDate": "2025-09-10T00:00:00.000Z",
+      "endDate": "2025-09-17T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 18984.91096866097,
+      "burnedRender": 4937.12702627,
+      "totalRenderUsed": 67338.4799999999
+    },
+    {
+      "id": 92,
+      "startDate": "2025-09-17T00:00:00.000Z",
+      "endDate": "2025-09-24T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 12351.907855877143,
+      "burnedRender": 3159.020633060001,
+      "totalRenderUsed": 44024.799999999996
+    },
+    {
+      "id": 93,
+      "startDate": "2025-09-24T00:00:00.000Z",
+      "endDate": "2025-10-01T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 14823.238763055984,
+      "burnedRender": 4178.32528938,
+      "totalRenderUsed": 53182.65999999992
+    },
+    {
+      "id": 94,
+      "startDate": "2025-10-01T00:00:00.000Z",
+      "endDate": "2025-10-08T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 15881.394393285933,
+      "burnedRender": 6483.146365589998,
+      "totalRenderUsed": 57366.94000000003
+    },
+    {
+      "id": 95,
+      "startDate": "2025-10-08T00:00:00.000Z",
+      "endDate": "2025-10-15T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 30780.87820215601,
+      "burnedRender": 10055.975307899987,
+      "totalRenderUsed": 111809.10999999975
+    },
+    {
+      "id": 96,
+      "startDate": "2025-10-15T00:00:00.000Z",
+      "endDate": "2025-10-22T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 24632.707414713335,
+      "burnedRender": 9624.726594060003,
+      "totalRenderUsed": 89383.01999999983
+    }
+  ],
+  "timestamp": "2025-09-05T18:07:28.447Z",
+  "success": true,
+  "endpoint": "external-render-api/epochBurnStats",
+  "cached_by": "github_actions"
+}
