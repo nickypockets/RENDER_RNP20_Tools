@@ -243,13 +243,16 @@ print(resp.text[:200])   # Should start with { or [
 # 1. Download data
 python -m tools.downloadData
 
-# 2. Process nodes (creates node_summary.csv)
+# 2. Process nodes (creates node_summary.csv - MUST be first)
 python -m tools.nodeProcessing
 
 # 3. Process OBhrs (requires node_summary.csv)
 python OBhrProcessing.py
 
-# 4. Run simulation
+# 4. Process burns (required for policy simulations)
+python -m tools.burnProcessing
+
+# 5. Run simulation
 python policySimulation.py
 ```
 
@@ -318,6 +321,7 @@ ulimit -v 4194304  # 4GB limit
 python -m tools.downloadData  # Get latest rewards
 python -m tools.nodeProcessing  # Reclassify wallets
 python OBhrProcessing.py  # Reprocess with new classifications
+python -m tools.burnProcessing  # Reprocess burns
 ```
 
 ---

@@ -116,26 +116,31 @@ Fetching OBhrs from URL...
 
 ## Step 6: Process Data (2-3 minutes)
 
-```bash
-# Process OBhr liability data
-python OBhrProcessing.py
+**⚠️ Process in this exact order:**
 
-# Process node reward data
+```bash
+# 1. Process node reward data (MUST be first - creates tier classifications)
 python -m tools.nodeProcessing
 
-# (Optional) Process burn data with smoothing
+# 2. Process OBhr liability data (requires node_summary.csv from step 1)
+python OBhrProcessing.py
+
+# 3. Process burn data with smoothing (required for policy simulations)
 python -m tools.burnProcessing
 ```
 
 You should see:
 ```
+Processing node data...
+✓ Wrote node_summary.csv
+✓ Generated node_sma_chart.html
+
 Processing OBhrs data...
 ✓ Wrote OBhrs_epoch_tier_totals.csv
 ✓ Generated obhrs_sma_chart.html
 
-Processing node data...
-✓ Wrote node_summary.csv
-✓ Generated node_sma_chart.html
+Processing burns data...
+✓ Generated burns_chart.html
 ```
 
 ## Step 7: Run Simulation (1 minute)
@@ -201,14 +206,15 @@ You now have:
 
 ### Update Data Regularly
 
-Run whenever you want fresh data:
+Run whenever you want fresh data (order matters!):
 ```bash
 .venv\Scripts\activate  # Windows
 # source .venv/bin/activate  # macOS/Linux
 
 python -m tools.downloadData
-python OBhrProcessing.py
 python -m tools.nodeProcessing
+python OBhrProcessing.py
+python -m tools.burnProcessing
 python policySimulation.py
 ```
 

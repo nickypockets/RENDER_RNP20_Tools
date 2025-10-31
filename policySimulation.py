@@ -2102,14 +2102,14 @@ if __name__ == "__main__":
     # - Shows how policy responds to growing supply capacity
     # - Demonstrates the node multiplier component in action
     # - Expected: Policy increases as node capacity grows
-    # sim.run_scenario(name="node_expansion", base="node", curve="linear", periods=52, multiplier=1.5, start_policy=1500.0)
+    # sim.run_scenario(name="node_expansion", base="node", curve="linear", periods=52, multiplier=1.5, start_policy=15000.0)
     
     # Scenario 5: "Node Attrition" - Operator exodus/difficult period
     # - Node count/activity declines 35% over 1 year (52 epochs)
     # - Shows how policy protects against capacity loss
     # - Demonstrates adaptive response to supply-side constraints
     # - Expected: Policy decreases to match reduced capacity
-    # sim.run_scenario(name="node_attrition", base="node", curve="linear", periods=52, multiplier=0.65, start_policy=1500.0)
+    # sim.run_scenario(name="node_attrition", base="node", curve="linear", periods=52, multiplier=0.65, start_policy=15000.0)
     
     # Scenario 6: "Tier Migration" - Quality upgrade (T2→T3 shift)
     # - Nodes migrate from T2 to T3 tier over 10 months (40 epochs)
@@ -2120,7 +2120,7 @@ if __name__ == "__main__":
     # sim_tier = PolicySimulation(skip_node_summary_regen=True)
     # df, steps, meta = sim_tier.run_hypothetical(
     #     start_epoch=97, 
-    #     start_policy=1500.0,
+    #     start_policy=15000.0,
     #     nodes_multiplier={"T2": 0.7, "T3": 1.4}  # T2 -30%, T3 +40%
     # )
     
@@ -2129,7 +2129,7 @@ if __name__ == "__main__":
     # - Shows how increased utilization affects the anchor
     # - Demonstrates hours-change multiplier component
     # - Expected: Policy increases as nodes work harder
-    # sim.run_scenario(name="activity_surge", base="node", curve="exponential", periods=36, multiplier=2.0, start_policy=1500.0)
+    # sim.run_scenario(name="activity_surge", base="node", curve="exponential", periods=36, multiplier=2.0, start_policy=15000.0)
     
     # ----------------------------------------------------------------------------
     # CUSTOM CADENCE EXAMPLE
@@ -2137,4 +2137,4 @@ if __name__ == "__main__":
     # You can also change the rebalancing cadence (epochs per rebalance)
     # Example: 8-epoch cadence instead of default 12
     # sim_custom = PolicySimulation(rebalance_period=8, first_rebalance_epoch=99, skip_node_summary_regen=True)
-    # sim_custom.run_scenario(name="steady_growth_8ep", base="burn", curve="linear", periods=52, multiplier=1.5, start_policy=1500.0)
+    # sim_custom.run_scenario(name="steady_growth_8ep", base="burn", curve="linear", periods=52, multiplier=1.5, start_policy=15000.0)

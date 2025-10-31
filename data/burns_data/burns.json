@@ -767,6 +767,14 @@
       "burnedRenderUSDCAmt": 24632.707414713335,
       "burnedRender": 9624.726594060003,
       "totalRenderUsed": 89383.01999999983
+    },
+    {
+      "id": 97,
+      "startDate": "2025-10-22T00:00:00.000Z",
+      "endDate": "2025-10-29T00:00:00.000Z",
+      "burnedRenderUSDCAmt": 25142.283469,
+      "burnedRender": 10109.57063522,
+      "totalRenderUsed": 152371.7099999999
     }
   ],
   "timestamp": "2025-09-05T18:07:28.447Z",

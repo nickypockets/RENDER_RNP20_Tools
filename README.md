@@ -39,9 +39,10 @@ pip install -r requirements.txt
 # 5. Download data
 python -m tools.downloadData
 
-# 6. Process data
-python OBhrProcessing.py
+# 6. Process data (order matters!)
 python -m tools.nodeProcessing
+python OBhrProcessing.py
+python -m tools.burnProcessing
 
 # 7. Get policy recommendation (MAIN USE CASE)
 python
@@ -210,25 +211,14 @@ python -m tools.downloadData
 
 ### 2. Process Data
 
-Process raw data into analysis-ready formats:
+Process raw data into analysis-ready formats. 
 
-#### Process OBhr Data
+**⚠️ Processing Order is Critical:**
+1. **Node Processing** (creates `node_summary.csv`)
+2. **OBhr Processing** (requires `node_summary.csv` for tier classifications)
+3. **Burn Processing** (required for policy simulations)
 
-```bash
-python OBhrProcessing.py
-```
-
-**What it does:**
-- Reads `data/OBhrs_data/OBhrs.json`
-- Reads `data/node_summary.csv` for tier classifications
-- Aggregates OBhr totals by epoch and tier (T2/T3)
-- Generates interactive chart showing OBhr trends
-
-**Output files:**
-- `data/OBhrs_epoch_tier_totals.csv` - OBhr totals by epoch and tier
-- `reports/obhrs_sma_chart.html` - Interactive visualization
-
-#### Process Node Data
+#### Process Node Data (Run First)
 
 ```bash
 python -m tools.nodeProcessing
@@ -242,12 +232,28 @@ python -m tools.nodeProcessing
 - Generates node activity chart
 
 **Output files:**
-- `data/node_summary.csv` - One row per wallet with all epochs
+- `data/node_summary.csv` - One row per wallet with all epochs **(required by OBhrProcessing)**
 - `data/epoch_map.csv` - Epoch number to date mapping
 - `reports/node_sma_chart.html` - Interactive tier activity chart
 - `reports/node_tiers.csv` - Tier classifications
 
-#### Process Burns Data (Optional)
+#### Process OBhr Data (Run Second)
+
+```bash
+python OBhrProcessing.py
+```
+
+**What it does:**
+- Reads `data/OBhrs_data/OBhrs.json`
+- **Requires `data/node_summary.csv`** for tier classifications (from nodeProcessing)
+- Aggregates OBhr totals by epoch and tier (T2/T3)
+- Generates interactive chart showing OBhr trends
+
+**Output files:**
+- `data/OBhrs_epoch_tier_totals.csv` - OBhr totals by epoch and tier
+- `reports/obhrs_sma_chart.html` - Interactive visualization
+
+#### Process Burns Data (Run Third - Required for Simulations)
 
 ```bash
 python -m tools.burnProcessing
@@ -255,8 +261,9 @@ python -m tools.burnProcessing
 
 **What it does:**
 - Reads `data/burns_data/burns.json`
-- Calculates smoothed burn trends using various methods
+- Calculates smoothed burn trends and growth rates
 - Generates interactive chart with smoothing options
+- **Computes quarterly growth metrics used by policy simulations**
 
 **Output files:**
 - `reports/burns_chart.html` - Interactive burn trends visualization
@@ -265,6 +272,8 @@ python -m tools.burnProcessing
 - Use dates or epoch numbers on X-axis
 - Show/hide original burns line
 - Display sigma bands for volatility analysis
+
+**Important:** This step is required before running policy simulations as it calculates the burn growth rates that the policy mechanism uses.
 
 ### 3. Run Simulations
 
@@ -531,9 +540,9 @@ Here's a complete workflow from start to finish:
 # 2. Download latest data (run weekly or as needed)
 python -m tools.downloadData
 
-# 3. Process all data
-python OBhrProcessing.py
+# 3. Process all data (required before running simulations - order matters!)
 python -m tools.nodeProcessing
+python OBhrProcessing.py
 python -m tools.burnProcessing
 
 # 4. Run simulation

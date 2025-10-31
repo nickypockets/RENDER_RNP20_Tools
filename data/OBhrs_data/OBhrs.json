@@ -2,6 +2,782 @@
   "data": {
     "epochs": [
       {
+        "epochId": 97,
+        "channel": "node_operator",
+        "start": "2025-10-22T00:00:00.000Z",
+        "end": "2025-10-29T00:00:00.000Z",
+        "amountDue": 1499999999867,
+        "metadataBySolKey": {
+          "E33TfbuYirKkFugfbt1dURyf2FtrPHS6G83DxKc2VzBF": {
+            "obhUsed": 59118
+          },
+          "Dd8MQ4sgECLDG8g4qoe4kkEUecpwJ3b9jQy7dfkfBauX": {
+            "obhUsed": 201087
+          },
+          "4uDPbqxpzPASo6LVqt6cfj5RdHvMA1nSjF7rVJzM1KJL": {
+            "obhUsed": 1503
+          },
+          "EMaFXnRicM2yeeyLcv4VdJrnDQQPHohYGgHscwctZJPC": {
+            "obhUsed": 57687
+          },
+          "2mmRiyK78fMzUrSUwVdeE9hSUuYRDVwd5oyzcDv25UT9": {
+            "obhUsed": 247040
+          },
+          "BWyKdFVNZnLhhTXTEshvwoV7PrSLvDon5qDpJywAbyJk": {
+            "obhUsed": 111033
+          },
+          "8iW1VgnAAbzHKnYk4jR1Z96EfKqsPwzyHBPVj4RXm8hG": {
+            "obhUsed": 53444
+          },
+          "D8uVTem4n5uWaBNHmhNTyxpQ2BxFYFEyCKwWkc1jBaka": {
+            "obhUsed": 28736
+          },
+          "Ff3vet3sWRdaG8zC4y5R2SDgdJiP5N7dCNXybhHmRZeS": {
+            "obhUsed": 289186
+          },
+          "CTWCpGqxKu92HQPKzmiLkt1TLcVMywJiQjgQutPrZfSH": {
+            "obhUsed": 150738
+          },
+          "9o1X8XMLTtKfz5KeUkEQQbvBbV7GSCDsr5u7B7D3q87Y": {
+            "obhUsed": 1260
+          },
+          "2dBra6RJxvwNGet4ZMkM1nst8YAfnuJ6gxEvEecYyeju": {
+            "obhUsed": 224035
+          },
+          "8iLBaVYzZaRATnndPBQ1CkPy92K3pR3mDGEWLLnvZ6pm": {
+            "obhUsed": 217225
+          },
+          "4ZDxMoJsPkFQe5Ruj7brzVbK3eqWevxKdnu1AxXBYVSG": {
+            "obhUsed": 40469
+          },
+          "8U1BXb88M6UvuqU7idfFdS8ShV9tvntz5C8S7sCAANRT": {
+            "obhUsed": 109619
+          },
+          "AjG5fMoySx3m7eyeXZA1vuEfaR6ALy3z5PnMKDo5wq11": {
+            "obhUsed": 99759
+          },
+          "414ieqYiE7Ya4qsH8UZzsCkSNcJTMtf46ZxhF43gsUpu": {
+            "obhUsed": 3076
+          },
+          "JDr2fmRxrWxsLoM3wPSDJgqmcv6SJUwXd2EtgKrkwegS": {
+            "obhUsed": 2644
+          },
+          "DXkyXqmMQsdqHYAwV2VXpV6NTvNcjczrMX4yXFwnfJR6": {
+            "obhUsed": 1066
+          },
+          "71pXszNVGhaqSG16tcD2J1hdp1tLaiqDyUKbgEJ66oPF": {
+            "obhUsed": 164817
+          },
+          "E92ENfMyWHBESfzgJEdpjoBc2zcAQ7vchXtxu5NZJ11g": {
+            "obhUsed": 31142
+          },
+          "5YWCCmrwNBC8FAsik8Th4UyF6W81MqeeSwQZLhuEEj59": {
+            "obhUsed": 7242
+          },
+          "98kAYisPJp1mGx4xGaS1vv2dtUbExeg1FgpTQePfsEHh": {
+            "obhUsed": 36449
+          },
+          "9jgpniunFUoNBvsabDJmcy9FaoY1aZRpQ5ku13W7dchH": {
+            "obhUsed": 16026
+          },
+          "B68YbKWj49r7eA2W5AsLpdJ4F4EYLaa7PWbVs41qdo3z": {
+            "obhUsed": 5623
+          },
+          "DdWrs7E16SXoyNLrT67qxtmmKwfB5jiW76R7fXnAFBj5": {
+            "obhUsed": 2170
+          },
+          "DYKMrKZPVQhbs45V1FxXm62Zs1bEDvjtVHXfA6Rd1uzG": {
+            "obhUsed": 335
+          },
+          "3rM4Pia6hRoTRfFZFtksp83jtbPLY8Uck45GsgcxaDD4": {
+            "obhUsed": 86151
+          },
+          "J2Ak3utu9X3hGHGNh3CSMTKPuZDExu4pgeZw9QETeEfu": {
+            "obhUsed": 154096
+          },
+          "Ew8U7sAdjUgXqx6EZATmnKJKgkGgB4JtGFqzx6mcRXdn": {
+            "obhUsed": 18416
+          },
+          "54aFMthB3YyxvzzVUtacJDE3LAqdDWhn4kg9LrPfgSLi": {
+            "obhUsed": 467386
+          },
+          "GSuzGryvyXmgFabBWb9cUKnbQ1ppc6ZQgsRikH4GbQcK": {
+            "obhUsed": 1210
+          },
+          "HkWKeXhsfpGPGcN8csEuDiE2WRqFmuYDXke4waezqGGp": {
+            "obhUsed": 31098
+          },
+          "GawR4wmfot142AQ9St9aqrf8bAbM3NfqwUjco69WSAiS": {
+            "obhUsed": 149404
+          },
+          "BEpnRvojfVRZD2Pra6ZafNaCBtGCX3Q1HMBCaSBmvLhA": {
+            "obhUsed": 228
+          },
+          "6C3yUCwDawYseJKXGyRgaEKcTbfpBAHcXT6gZGZX7QFk": {
+            "obhUsed": 1600
+          },
+          "5AnwF9ecj9X1UhozoiqW4VpzqLqmV5mqi31DthCzinSF": {
+            "obhUsed": 40670
+          },
+          "DECYW2pw2xGc3KZihT9UueBtDsdraDdGHzo5VmnD5v2B": {
+            "obhUsed": 26101
+          },
+          "CE7hyAFqyesTh1oTCJQGHgQDpRx4m2y5j3E6GRb73RZd": {
+            "obhUsed": 20761
+          },
+          "Bp4tJEBNErnVUt35ndjENEAoju8gwBN4vNzknMZQ2yNQ": {
+            "obhUsed": 340421
+          },
+          "34wP3R8CDkF1PUdorxVXYmH7c33oFXCzkzUw1nwjMNna": {
+            "obhUsed": 72300
+          },
+          "D9LhCAFRqAf1rpJyUqJuTUvUNN6sR39bkJ5mYwcy7Fmq": {
+            "obhUsed": 17383
+          },
+          "Cowe5S711un4vpuF4m5AE2EhtVTqYLSAeKoUDgq4BZnk": {
+            "obhUsed": 2731
+          },
+          "6KwrjLGsApUNTrxi6wcupweh7svn33G2zecS8nCvhWSC": {
+            "obhUsed": 129073
+          },
+          "6tfDsGzrnfZjzocP7mTsFYVTeiH6KNkra91kQy9zRT3a": {
+            "obhUsed": 337307
+          },
+          "9Yd9fcXWPYRtFJCsbcsY267UnL6JwX43cWPShZTi39X1": {
+            "obhUsed": 81615
+          },
+          "5gH8DLX4GzqNidCCyyZNowJAR1z9MaHJLrfv4FJzDr9z": {
+            "obhUsed": 256
+          },
+          "FBM8AgZYpmbbb77ywJb4LFPBsXBJdMZA7SKbo9mqHt8d": {
+            "obhUsed": 43424
+          },
+          "HeAWkEANrueYcDGzBUtMSvPwE3G1RYmqLasXUJEKfNgP": {
+            "obhUsed": 5306
+          },
+          "APeNGka8ioYKaWLt35W5d9Sa9GAKjqwV5KeCRWCzf5kr": {
+            "obhUsed": 876
+          },
+          "7jvojYXitQ5p5z3Vd2Awzd6C3D6RLaNLYSNL5wjRz74k": {
+            "obhUsed": 990
+          },
+          "Y7AD9bnt8f1HUTz8us2DgyJDhdrhbHeCS5beNuD8d2S": {
+            "obhUsed": 177467
+          },
+          "GPaxJ2bvidK72N4dZ5o1VaSAtVHTL6P3bNqLYXBhXDES": {
+            "obhUsed": 877
+          },
+          "7C1Yxh8j7fxnt8YcusSvKNqxaDPpLhxLiWrfXw1NEGuW": {
+            "obhUsed": 21908
+          },
+          "Fu4xYz6V2xYw71ArYkZUFSbsD9dgAvfnXkLhouueLFaw": {
+            "obhUsed": 19965
+          },
+          "7xmtmZbqHaPU7xd6BbUQL5CeB8HrThg7p1i6y4QnQnSX": {
+            "obhUsed": 375872
+          },
+          "HoY4SDrJqb73Vx26pUojMbB9k5qPn3G8bU5pfuc4omGm": {
+            "obhUsed": 261831
+          },
+          "6yvGgXRGzbsgHSudDSJhAuAW54S7Pd5YRad96ja8UaWS": {
+            "obhUsed": 32099
+          },
+          "B3tDSnDb5qiWkx4T3kAnXjWnQyBDSLxLBsfPz3GBDPUw": {
+            "obhUsed": 62193
+          },
+          "4V1WGKjyMzYCi2mEiE13baJbCi1jUgDFZpecYoBF1hYE": {
+            "obhUsed": 27079
+          },
+          "6BE41FEhm6cYSvnWSYJdKERyoKFLSQSxRV2wkhiH6gc5": {
+            "obhUsed": 3667
+          },
+          "C9cnv6C8RTn2CuF56WVy3eVrez7y3TYfMnR9K5Di4Fdy": {
+            "obhUsed": 475377
+          },
+          "6CJrQUwo9sf5zonVCUVbGtvusbePfb21A4d8UiY9yk2U": {
+            "obhUsed": 1956
+          },
+          "JD7RQYrrpEuNNdqpJzLGT2Y4CGFsafhKE8NYb92Lpshx": {
+            "obhUsed": 61161
+          },
+          "AAHwFzKj8U1E7JyNBz2v561eXCz41Uv123xzjAYo3GdT": {
+            "obhUsed": 5631
+          },
+          "En2Wm3DyNGoAfCnjSBBjMwb96hvRegRyNzxrLmxCGhtX": {
+            "obhUsed": 809504
+          },
+          "DUFVxp9kpCf7rE8ZJKt5QbXv6f3ftJss8TJwAHMQvrpu": {
+            "obhUsed": 165661
+          },
+          "2n28UWANkMkS1M3hHxu8nZpfucHfJaNpeGECGmgbCfXu": {
+            "obhUsed": 203639
+          },
+          "7FZBX1feB1BSewZzV7dZm9FoD8goe5kuZAJsKzcg6ACX": {
+            "obhUsed": 2992
+          },
+          "HnrS7Y1EUWacHWXcLv9vYpjaYEcpwth1GXg1MEAZeQEP": {
+            "obhUsed": 145871
+          },
+          "81tz6iVaGJ4yWmYxoEd1vX5REHHsG3C2CkyAUoMu2Mgp": {
+            "obhUsed": 75024
+          },
+          "bFUxJYYH89GuQittD9quu4axBJqtt6Ctm3fYLwAXTM5": {
+            "obhUsed": 6821
+          },
+          "22yqvhvvFbpQXfn7gTvfTBtS9n6gkUUmwm8mkuN7MFdy": {
+            "obhUsed": 16524
+          },
+          "4rZ3oRxn98qEVXdVjwdaLMwxpD1P62Gk5R5SqNKajC7x": {
+            "obhUsed": 6842
+          },
+          "LVyHg1M1rK7wmHYbPJXASuJyR9ooasW8sHTtPbwBZUE": {
+            "obhUsed": 37148
+          },
+          "12RXJVJiVXrcBt3Ed8EeBE3ahnX4Zn57qh454Ju1Riuv": {
+            "obhUsed": 42568
+          },
+          "5uHYCNc9wpPyR22RBn1rKmZB6gKD44RtmLQjS6pkmvb7": {
+            "obhUsed": 143572
+          },
+          "2gASDpaC8qiamjR8HCs18j32yEmxxC8UEAz4KJKGojrE": {
+            "obhUsed": 124932
+          },
+          "DX3UrAQ2HBSpACsX8racZTY36WHt3meDaMu9oVTrEegA": {
+            "obhUsed": 70696
+          },
+          "Cp3EnnCR5LXSQMBYwxKaYhYqbqe1CdDgMxjsESWum6jY": {
+            "obhUsed": 1475
+          },
+          "CgvVGwaqbHfGzR3cJ1ZXcJJquQUksfdWxy18uV6SkhWw": {
+            "obhUsed": 2484
+          },
+          "BpGEDYCkUNC4iRfFP8YCn8rRTbdVFEkNRESR4JfmmBKU": {
+            "obhUsed": 122818
+          },
+          "CJ2FfkLU4NuqZnbaxhjQJjmYgiofVwxNYBfAU2zckryo": {
+            "obhUsed": 57166
+          },
+          "EiGuLBm8BoWgz8f2jE9YGDDGcCt5T6ccKrFCzbab53pF": {
+            "obhUsed": 37386
+          },
+          "CBnSSJPQLYDCfGC1MVwSgdQXwvvu13mas8gJY1jyaHe2": {
+            "obhUsed": 14565
+          },
+          "AogT1c1R3xG7hixgU6hwNcWmh2vN486FAEVVMkLPknN2": {
+            "obhUsed": 3313
+          },
+          "AUjTT494yS3SwZN7BftEc9iGj54ndRqHvZcUDvuWYeyZ": {
+            "obhUsed": 3314
+          },
+          "498UFTF17r2TFHpWiPd2Qekw8SsGQ99yGsr51zWDWrAT": {
+            "obhUsed": 23055
+          },
+          "8vMkmbkyYccjBkk484Vdesai5s8xJPmqJiizqSebDXps": {
+            "obhUsed": 86809
+          },
+          "8KXaq8XEzV51NRe2S1Sk2m35nGwY6bJ7BqvDBTa2p25w": {
+            "obhUsed": 31474
+          },
+          "3VLeHQ5GF8LTXiLPFdTPMwHh94HXBMVedcMWBpTRCA8h": {
+            "obhUsed": 4269
+          },
+          "HtZ3tmotBbjPAVQNr1TZHUaCFNz2mpsd5pM7mUwKM1XW": {
+            "obhUsed": 12508
+          },
+          "BM8k4hoQjNYLzzN2V6Hzp916FMHowB43TYJDQaZC7nVk": {
+            "obhUsed": 2051
+          },
+          "4CBiK9xPVWnKPB39Eyu9iZq9ooZGB2h9iXNfSgcotxkx": {
+            "obhUsed": 337808
+          },
+          "CuM8Dv89UtPhv31vdz47t7Uiy7YZsPq5Rdv3FrGoz7Mg": {
+            "obhUsed": 5204
+          },
+          "xom5T6X7v2cZTzsyoEUtaK9Khsm9T5HZ65JYi5WAw7h": {
+            "obhUsed": 19307
+          },
+          "D115G6tKVAunncmGfeHkRygGzTQoyECKMpVzYCQjGxoV": {
+            "obhUsed": 86345
+          },
+          "6cff6x1VpRmeWsxJVCtiFdr4BQ3BrUvJYMAkrUh4ExsL": {
+            "obhUsed": 21181
+          },
+          "5C3bf6z9eAcSU8BD1Dcrne4CxhPKHXTr4e2E62jXLtSB": {
+            "obhUsed": 101428
+          },
+          "5UpeaLDZ4eVNrYp8DzBpaAyCPRTLy9hy1WFunHnVFMcs": {
+            "obhUsed": 6083
+          },
+          "24CvHRB6UD5SZFwcHSNmTZv9MPRE4mcvCD7fpyskiQr1": {
+            "obhUsed": 1765
+          },
+          "3jHnmakWCPDPHMzrd5wVPU9vXovxVB1oZD3cQrkUGRxX": {
+            "obhUsed": 3939
+          },
+          "3LcjNSa6gNxHkkrqe2vPBzWy2v1NfoGj7XPfvbX8j2Tf": {
+            "obhUsed": 2709
+          },
+          "EinRzXvcsmfnqU7BhVp2XcxLJYMBe1deEpfZRKq4L8C": {
+            "obhUsed": 19544
+          },
+          "HrQ9M73motKSjZU7mLcWzZUmpgfqHSQLtTAqbdVtHn7y": {
+            "obhUsed": 94214
+          },
+          "6ZhcHBtTibh3JDpScPWmWwkVFZU1BGTZc8qLeLxCcpci": {
+            "obhUsed": 40986
+          },
+          "4irR4H2ksD2y9scLxNYnpchcijCHnk7pzuS294ng86UG": {
+            "obhUsed": 5975
+          },
+          "GePEzYrhh9khLRF5VByisiD4rMCBuNc2Ca5QCED2vmo8": {
+            "obhUsed": 21677
+          },
+          "2jcV9mHfhFgCjCK3Qqb7nwsLLqszbsVcyZLvbPy9ynHB": {
+            "obhUsed": 8546
+          },
+          "GkwLnreMCh3U2wktJV5e9YSjTN6ieGGbYqHTFEUpPXfW": {
+            "obhUsed": 158791
+          },
+          "hi2VweGAxUNVynrTDrzBpPx96fjEEBo2a2RXMgnQhxb": {
+            "obhUsed": 64161
+          },
+          "AdsTrw5nPxFge4GuoRrKVxctpvjsVZ3Z4vGptn11Vjk2": {
+            "obhUsed": 1380
+          },
+          "BKtLZVEUUUyZQo4SUozqxGSJZpCooaBLRUsUgkeycE6T": {
+            "obhUsed": 50211
+          },
+          "A6FVTiF4xCw3P6Uod7kYdZLJ6nF6yMfSQ8VJQL9CXcKD": {
+            "obhUsed": 177056
+          },
+          "S9kC8QCusuK6piJZedA6sseBZfw7FjmtEgmy6aA58yQ": {
+            "obhUsed": 41478
+          },
+          "E9hJy2PC91RsxU8NqVWuBBbp7hQjqLndK1w5SrkrSUWq": {
+            "obhUsed": 16299
+          },
+          "7SBPR8ZUDwHxSUzXvjaRt8v1rLrnAdePBaXTm3Ems913": {
+            "obhUsed": 304
+          },
+          "8LBncqY2zsakbTRUKrBYRtHNXwQVJqD3XeVAXAQ9sGJV": {
+            "obhUsed": 4312
+          },
+          "65UZq5Eo4K8dLspEVrn73GjwjwUirXjPhYZ5yDJx1sm3": {
+            "obhUsed": 77525
+          },
+          "7MJzgBY5v9Rg3c5eKuVuakWysCKpnuGrKFMeWVyTpSQa": {
+            "obhUsed": 27672
+          },
+          "AMKbpJUBQMJp3KQLCr1q3sXv8Uyqq7dquL41F3edqVCa": {
+            "obhUsed": 270239
+          },
+          "7DHwQUC7SEjhf4tTnKnDvZyftnWRMp5hVQRmHeNrfQXA": {
+            "obhUsed": 37320
+          },
+          "A9zE1AVEEegYRtFYL3XWfn3bn38gn9mmt53ApmDMbuP5": {
+            "obhUsed": 12508
+          },
+          "BCUdr6WEkcNqnawEw2qawtSrEAmKUQDFqLsQq1rF3yjP": {
+            "obhUsed": 1595
+          },
+          "FJ9CttpgNASndFURhFGS7yXXno7MAHa7eUQLcrKxDiSp": {
+            "obhUsed": 167357
+          },
+          "5MXFApgKLzuCNQdJiuHbceo2b448HxJh1TUHwR12hBPi": {
+            "obhUsed": 5713
+          },
+          "HCA4PCnTuux8SbTdfB7CDMnTT7LSBExpJTSxcEd9Kb5T": {
+            "obhUsed": 57988
+          },
+          "2Csz2ydzHaZ1KDZQkcnFND7GJAZTCwkCGebrdpQ4TeD2": {
+            "obhUsed": 6086
+          },
+          "CHuAHFVkHN8bRxgrejCit5tnkkdoDBgNcPTEMSPu6AoM": {
+            "obhUsed": 43604
+          },
+          "FvwN7hp565i6VMsufEzyKM5mbePdrXS7gufMCPa3AT9W": {
+            "obhUsed": 27955
+          },
+          "4dgDrYpp3RCpT8BAJugKAYCHKiW1bsQritDSBLdevmGY": {
+            "obhUsed": 78258
+          },
+          "8SrCiuhBP7dGbZxm3ChLLf9GxzD5obza8AnfwTNNrASp": {
+            "obhUsed": 23807
+          },
+          "B1BwFz6won7Mj3snEmFV9y2uL5XzoQY1oTNv6nH48rd6": {
+            "obhUsed": 100286
+          },
+          "Gw4nnCUQQ7bqCLW82VAtfzGaFB1EhpnuLYZQTwSD9wzM": {
+            "obhUsed": 4370
+          },
+          "fDLpW73n8wb2JVYK98YSQLyNhwVsEGKdZTSumtcqJp1": {
+            "obhUsed": 146264
+          },
+          "Ab31t76ZPEkScMSBWDefoPrWnBrZj6swdEkA8MKoaQ5A": {
+            "obhUsed": 5265
+          },
+          "3LxAB5DW9r7cwnrNakLDxv44zCvtwKk91H5xk7Y7vSCZ": {
+            "obhUsed": 68134
+          },
+          "CHKPS16EBsDsfa5pqNc7DgMEBrpSUi55b2ftWqrtggZb": {
+            "obhUsed": 3731
+          },
+          "DVAAeVAh7irPCtUzgNPpJ6RaXkv4cc6MCunc6mHEScDU": {
+            "obhUsed": 31366
+          },
+          "F7xKvNiFEwGj3cFRsx98ZavjBatYuLsEq9aDYBNFrK26": {
+            "obhUsed": 113713
+          },
+          "Ac6gR8r6LTSVfZfyiSpc1BNEVg7SmrC2WrZqJByDtRpZ": {
+            "obhUsed": 110596
+          },
+          "4hCD9VjE8yieKNqWTS9oFbKuDrPBDCRLBxhZpqf774fu": {
+            "obhUsed": 403469
+          },
+          "GfoYbB6FUg3R8NKf3iYZQnRLRkgWJ61XaFnQfHPqLtHd": {
+            "obhUsed": 579839
+          },
+          "2sgHPbtUKX6y7BXEyRacURPYfXsMzYCHbS83bfWMh792": {
+            "obhUsed": 24218
+          },
+          "CgEinr4k8oHVFZgAuoRCJsWDVe5FBJjSRPXb8EgEV5GY": {
+            "obhUsed": 2250
+          },
+          "HFMHmjBAKj911aZUY98ogDRTCg1TipQemTotmVKscuxG": {
+            "obhUsed": 529
+          },
+          "5jex3fMXfftpH5T7p7qT4dYeq3KbahNyeccxDjvJwpRh": {
+            "obhUsed": 10686
+          },
+          "6Yr5kLDyqcPNMWSvtc6SQnVaWJVZBPTYMRxTog69bn3d": {
+            "obhUsed": 6432
+          },
+          "ovAAU7WWEQybfSc3WGdusSjC9rsS3kKna7soS8Y7LAk": {
+            "obhUsed": 58721
+          },
+          "FG8iB3KaZzZjmxW8xWihhvheJTjBovpKdJir2DjAAKzL": {
+            "obhUsed": 5873
+          },
+          "6wQMAzYgLdBAaepXY48v74nqj3BwFombHYfrwqx4WK55": {
+            "obhUsed": 225010
+          },
+          "BNSr6ULpTEPxMML8RTwQmRrcii8prrLPeDuUpnsQQ766": {
+            "obhUsed": 11740
+          },
+          "8aFB7y4vdPgfGTn2q3JyJ8WU94fth1DnWoKksaFAbVih": {
+            "obhUsed": 74201
+          },
+          "6gZyPhkcZfn1j5o3UecdhNYhw5mkswS9qp7j537nC2rE": {
+            "obhUsed": 2326
+          },
+          "63umisXVhKkN7hgimMxk5NLw7WpCj28VeYcYsosEq7VJ": {
+            "obhUsed": 30190
+          },
+          "5kUeJQiQD82rGfeXqrLVaru5YRqp6TiGA7j48JcLCCLs": {
+            "obhUsed": 84209
+          },
+          "3cjnWRJECKYHGHjSbuDQCrj5vtCtuvQccc4E8xi8TfWX": {
+            "obhUsed": 12777
+          },
+          "8wkHJczKnZJdKFMit49bGSpkfPFwPwNJsxU86ZgLVhsp": {
+            "obhUsed": 11320
+          },
+          "69F7MBmHrCKCxWUChLfDRtfEQNfqnRe2TcjdoGZiUL7S": {
+            "obhUsed": 339532
+          },
+          "FK3B5tnQK4jE8vhvoysiGsBz52RFV82DcmWXUQpHU6QX": {
+            "obhUsed": 13322
+          },
+          "EhhYziczSNQWGmL29R5zx1wDVHsNZwJRkCYucU9iJWcz": {
+            "obhUsed": 8167
+          },
+          "262Y3qgig8seAXWutjZFVRptmDepASu4hQCz7jPommhS": {
+            "obhUsed": 23971
+          },
+          "B5wmAjUcVhfdSAUNCqDD3tw6npnwMKyfwyRqNo3dqKQi": {
+            "obhUsed": 99743
+          },
+          "5HbRsBaJLiLfn3GzssAxfeUe2hDJfroinZDKyDLfKa5Y": {
+            "obhUsed": 154982
+          },
+          "Bj2a39SszLaWjesMwodxPje2CBSfHvL6oU6BGYftJqJ5": {
+            "obhUsed": 7288
+          },
+          "H79n6CKHMCSWYSn4pSPKsGVw7zMmpo1fgo21fUV8VuTZ": {
+            "obhUsed": 83601
+          },
+          "7qx6A6nJf6N4jDjxhyLJ8F6CjXxfLSJZp7vefStVkPtb": {
+            "obhUsed": 224246
+          },
+          "DSFRYhYC3hwDpYyGXGW2gyBPrdPiEevjrArgG8F8WswD": {
+            "obhUsed": 9534
+          },
+          "5C5kh9EdGAYs68g19Wea9jiZmRhntSgkefEsdt1WYQQL": {
+            "obhUsed": 104716
+          },
+          "BqiPSotbJxPPRiFeJzaZDVpaY7d9ShnD5KSwxBbZGsMk": {
+            "obhUsed": 1552
+          },
+          "H8p8nqEoe8fMeCQYqDXKen1AELyyaNKhjCcdM999Wcn2": {
+            "obhUsed": 31
+          },
+          "3B5CzfPf9MT6e9PuXMtzNzzZN8mYxYRm3E1EDsAKHXCT": {
+            "obhUsed": 33639
+          },
+          "HwiMw5Cz27xTvsfuTJaFtfjvVupAbb5ifvNzhmsdtPpn": {
+            "obhUsed": 65638
+          },
+          "GGe4MjHP3khn63Vs8b1MMt5w3SgYMPH6R6JtQqHLNgv7": {
+            "obhUsed": 12814
+          },
+          "FtweKt8MMjBhTm2deY1uCkC5e5wX6xMzM9grsDJPMyAd": {
+            "obhUsed": 5200
+          },
+          "ExkgqZ4mkQz12WLvyee9tgsbNZ4LpX1i6zg149NWMSWs": {
+            "obhUsed": 215
+          },
+          "38avc3adbSKLie6twXVQEbbCEiR7oSYxRZsZr6pa89J3": {
+            "obhUsed": 1228
+          },
+          "AzTPTpHQNhSzfQoXZEsuVPc71e6ewsXmb9AjciK3qvf4": {
+            "obhUsed": 8296
+          },
+          "EvEMVk48HCcnrN5n646XoH81ixpvonXLsJK3gLHM3FAy": {
+            "obhUsed": 226
+          },
+          "Ha8awYXhemB8tWC3V4SAQnu8oz9xfPtAfNvnwKDi6sbF": {
+            "obhUsed": 75114
+          },
+          "GFTkVZmzGf5mw8rQQD3hKqjs8hvvxUH9eYfVjpreVyGd": {
+            "obhUsed": 58287
+          },
+          "A98p6t7Miov52Nt77RzH2AA6jDGgx62vjqXr71WfugJg": {
+            "obhUsed": 112708
+          },
+          "HR3WeZJDyYJLwdhh76yELjz1wzKhd2a6ieYMRJBh4cgN": {
+            "obhUsed": 3069
+          },
+          "8Mrkk1ukdjrn7DVJ2RJhJx5jLKgrxaTaJ5VatSFxkGG7": {
+            "obhUsed": 555761
+          },
+          "2HkRWk4QgzcgQo87s76ww6aVNMv12kBhrjWqRHM42H7i": {
+            "obhUsed": 60388
+          },
+          "AiVMzYZiiHau1mcryAMH2S5kLFihKHVcoeFyQS1Gym8t": {
+            "obhUsed": 672689
+          },
+          "APo5kNrb9tfaarhRDRh8VMM8Dq1nT73h4SWtMtmSrpkt": {
+            "obhUsed": 48369
+          },
+          "HwDTsXXTubpajqJu2iXSDjV9qgmRTPYGq1t8apNE267y": {
+            "obhUsed": 1940
+          },
+          "B9YeUSELXRqcfzUyztoXcVmMgwVViJqwXEgUZRPqctm3": {
+            "obhUsed": 19475
+          },
+          "7z2gVGb47Pq6TDMHPMroG8Mz9MRefviB99Zi2nx9xvSg": {
+            "obhUsed": 487
+          },
+          "7fXkr8SibaYmoEfmyRaG6u1vFPzDd5P3NDRSP5d4YQhv": {
+            "obhUsed": 105264
+          },
+          "CV7v4N6qyGKQELnFqGx11UAFVuMrLeUgSHu3tzfUdq7i": {
+            "obhUsed": 137652
+          },
+          "2R4mxRnFKgxU5EbQvcF4cqdGix9FuqQSJvQcwjGWSfSo": {
+            "obhUsed": 1304
+          },
+          "FofY3MtSPJJqL3PDkx8RuRgARUB8i8JuCS7xwQUojett": {
+            "obhUsed": 23029
+          },
+          "97hsu7HsinDLpkmtNRtrACQyN33158mzYprc59k5P5Hw": {
+            "obhUsed": 123371
+          },
+          "7d9tQ8UdsCnokM52cR6dUq26Z4kPgJZ45e44b6zpSQff": {
+            "obhUsed": 26757
+          },
+          "7CzXwPTHXuwoof8LcDUABTWsbYU4hAWsayBvhN4ejBg9": {
+            "obhUsed": 24149
+          },
+          "74d2PJr2BDv42ge9HziJfVcCwUEh3oC1GpNFecomcQDE": {
+            "obhUsed": 27299
+          },
+          "AUxWPGu1VdmDWX2JdiwkpRWGAPZwshT4CzXLGMy9rvsG": {
+            "obhUsed": 77836
+          },
+          "3j7oeVuWYu7c4pXFj6vKiRFehsafmyTMMyRBX2g6xMBU": {
+            "obhUsed": 26570
+          },
+          "21ic14aRQGKniHaSgihc7oatboaQpAw6q5qNh6TEXeqe": {
+            "obhUsed": 39874
+          },
+          "5XsD3ggC5TKpLnpce4B3fWPgEuJaUVbEN5zjLM5GY8aK": {
+            "obhUsed": 2804
+          },
+          "6Zb1UnD1kChjYzjXscDCGRK1ZyvNvz55V3Qu5QXey5CZ": {
+            "obhUsed": 24006
+          },
+          "79z4fj3RD5JPsqFLLK4Tygviv8tqpKw1kXwERh4j6caK": {
+            "obhUsed": 80450
+          },
+          "DEjhKjHNCEk2gLFwVj3jvSmS3F9roVWTom15rJJpEfsX": {
+            "obhUsed": 142187
+          },
+          "3GpFMtPCByChDPWdbAccdG1UnUwKJe3LM32RJQPZGtJR": {
+            "obhUsed": 38707
+          },
+          "7UsNAge8Hgz2ju4ieJgrZPoikgtcF8nWdg3eDqN7YhAf": {
+            "obhUsed": 96815
+          },
+          "Em6CGfWYeu2GUdUftL3QDrxbfXZmm7dHjSsxnZ4uYGhE": {
+            "obhUsed": 169945
+          },
+          "4qXp2ost9FXGZm5W7N54Erjdd7zMmnmHxRT4ZPChyj8D": {
+            "obhUsed": 100602
+          },
+          "2gQoFy3oeNvkQYwTGhWMupipkELzCaU1ZJz26g9sV5cM": {
+            "obhUsed": 8896
+          },
+          "H3BbYJUWX3z8p58wKveq7SjyCa8yZBUjoftioA2yksrg": {
+            "obhUsed": 91823
+          },
+          "EXhHZV9M8d4LvvYD4F7DNJewsyLP9QnLdjkb22kNrzKT": {
+            "obhUsed": 236899
+          },
+          "8zLkfDuzrY4k9SmVgmtSJsL7Uon86w42EQpXECjpaX8q": {
+            "obhUsed": 181387
+          },
+          "DKJSgw8mEha9zS4sTY2o4WV3zgjagbt5odQYZyC2Jbmg": {
+            "obhUsed": 50115
+          },
+          "BMSyo918ZPo6VP435TLGEuciZebwpkQhDK9HNZ6HxEeP": {
+            "obhUsed": 20
+          },
+          "2AvFGMRaR1Zg2TVarjAQfYnV3DVXA73Lq8Xdq7RwhWmt": {
+            "obhUsed": 772
+          },
+          "CQne2GkY59w2oQsvCNkpVBuzF64bu3GFAvbNwjMU1zG1": {
+            "obhUsed": 253704
+          },
+          "CxuDVEJ9vi7vG13372zAY6ZCCX8dR7DoBziufMBKsPnb": {
+            "obhUsed": 3357
+          },
+          "5g5ePCSLvW8V2WE2t7xmcT2H6azB33vMo1gY7mXtfjhJ": {
+            "obhUsed": 3747
+          },
+          "BacaFAUMCZ7E2PAs5PR8guNFwEtn7iSXw7beRzozrEXk": {
+            "obhUsed": 123223
+          },
+          "BCxwPSAK5JWufKmqn5J4ttGp9iNRyYx4zunQZqEcKasJ": {
+            "obhUsed": 81680
+          },
+          "96ir38a2jf4NxmVV4TN4uPufevbaSqyirvdJtdffa1VA": {
+            "obhUsed": 181132
+          },
+          "AvKsc2eaejnDy28CBEJKZc68sdNsns2DYzb1sD89uvdK": {
+            "obhUsed": 22107
+          },
+          "6iT6mwxLTe5HDWmKgdG9mQKmEW6tMivdJ3HHzkDiR1pT": {
+            "obhUsed": 25594
+          },
+          "2gK7n9k6nLmTmx7PeiZoJz8Xt41aEtbW3H3VZhgu3CZm": {
+            "obhUsed": 6598
+          },
+          "5A5NHLJ175Kc8PBPHCys6v18X41J9cZ26ELhPLMNrasb": {
+            "obhUsed": 602212
+          },
+          "5xXp6FZkSerudaqPwCKakuDZg4oZAePHrVh1TNWswHKo": {
+            "obhUsed": 60256
+          },
+          "6BR61GHQoUvX3PZAmzicjr76XAHVdRYasLc3te7JesFM": {
+            "obhUsed": 25777
+          },
+          "6FuT4a536HbDidfTLQ426xqXaGtYGhofugamwbtunpec": {
+            "obhUsed": 30543
+          },
+          "G8JJb42fo6hpmkNtPcsdRoPKdmrECHNdCfhPeFSfsfgz": {
+            "obhUsed": 39002
+          },
+          "EEEdGWRLhC554YL2eUJTrSsSZfe8zeHDhTECUJzJi9d8": {
+            "obhUsed": 998
+          },
+          "6Zw1iX46YqqNxbL6vqxMijQd4AYYTCVy4bHSnoXKUF2j": {
+            "obhUsed": 2193
+          },
+          "Fkktpm1AnMe6qyKnwngRXx3qxyxwDwwvGxAEpxVHY8uR": {
+            "obhUsed": 15437
+          },
+          "H2KXRhDVR4dNHGQVm3Va1F5kiuCrWMBf5ErRuqAQisgP": {
+            "obhUsed": 17467
+          },
+          "HPnBZKmt691ydaHQz62BFgqEYqGfWDPvsVGmyrr8uLRp": {
+            "obhUsed": 1849
+          },
+          "HwLgnS6ANmniURLGjkRJEtwjEFC35rkWGNKE5oMHeTJ8": {
+            "obhUsed": 17752
+          },
+          "misqg3G8HtfNvJckEAmEu4vedvfGcDbz3YEDX4uzyV6": {
+            "obhUsed": 219579
+          },
+          "4Eg7PfTGxkhYhrJP22s46HeC8cqEonNdKh8w4WkaRuUs": {
+            "obhUsed": 2936
+          },
+          "JAXjop7ito4gJPi2AJYtqSvVe9v9EsEgVgYQzsXmAFGX": {
+            "obhUsed": 1033
+          },
+          "7VbYDpS5xvLhoxC5HVxbnjDDXrSuzvF1yt4ZcGDrqWeM": {
+            "obhUsed": 470572
+          },
+          "qLWibPrXskhMjx5hqRVFPYpE7wUgyv9APgjF2NfVcoR": {
+            "obhUsed": 328
+          },
+          "85975vsBueZVFDekZQA5paS4DDaDG5YWkZuKRWJ1kG2E": {
+            "obhUsed": 93567
+          },
+          "LVCasiHxodUVupg28uEFzwLT2k4LZLvnnKWZdP3KiHs": {
+            "obhUsed": 11961
+          },
+          "7j21gcLobYtCAMF8Lwwi1pSMpNZEUW7tHd9TjNiYAGgG": {
+            "obhUsed": 63814
+          },
+          "272KWQf2yXps1Pj8m2NyYcx9CwezT5f2pgPtZhjxoxQB": {
+            "obhUsed": 27523
+          },
+          "8VLXy1ZhRm5NY7eXcTPKGjF63busBgMWV2orm85toKvx": {
+            "obhUsed": 5332
+          },
+          "BixP6EgN7Qc3DWz7BxnxUwPc5r5oVK8UJt9pVJ3fD3C1": {
+            "obhUsed": 48046
+          },
+          "5mHXD5sfkTKX2VfVLxNtM1CARRCDk9ac55GjLJskvTgn": {
+            "obhUsed": 6718
+          },
+          "Df7wKkP3FmPSReaChdiAMjDGFTAWBc8hdQkHxtwoJuBD": {
+            "obhUsed": 21416
+          },
+          "FvdcDsBu3YqkGM1uhCumztVtBajfu1k8PHMbYKhUCPFH": {
+            "obhUsed": 25188
+          },
+          "4j6DSE3J7J2LqTJdsEuS1kvMcqaL11Ka5bmujk7CnHd8": {
+            "obhUsed": 297852
+          },
+          "3C6gXwhDDsRxJNYAb3D1DGf2nLQhAtgD2fMsLyHHTH9m": {
+            "obhUsed": 6800
+          },
+          "B1CFueUmM1K2st8BQxwoDUaKFkav6nSgiGQX5XQyaWFq": {
+            "obhUsed": 3953
+          }
+        }
+      },
+      {
+        "epochId": 97,
+        "channel": "availability",
+        "start": "2025-10-22T00:00:00.000Z",
+        "end": "2025-10-29T00:00:00.000Z",
+        "amountDue": 288461538280,
+        "metadataBySolKey": {}
+      },
+      {
         "epochId": 96,
         "channel": "node_operator",
         "start": "2025-10-15T00:00:00.000Z",
@@ -763,14 +1539,6 @@
         "start": "2025-10-15T00:00:00.000Z",
         "end": "2025-10-22T00:00:00.000Z",
         "amountDue": 288461538406,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 95,
-        "channel": "availability",
-        "start": "2025-10-08T00:00:00.000Z",
-        "end": "2025-10-15T00:00:00.000Z",
-        "amountDue": 288461538366,
         "metadataBySolKey": {}
       },
       {
@@ -1543,6 +2311,14 @@
             "obhUsed": 380
           }
         }
+      },
+      {
+        "epochId": 95,
+        "channel": "availability",
+        "start": "2025-10-08T00:00:00.000Z",
+        "end": "2025-10-15T00:00:00.000Z",
+        "amountDue": 288461538366,
+        "metadataBySolKey": {}
       },
       {
         "epochId": 94,
@@ -2330,11 +3106,11 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 93,
-        "channel": "availability",
-        "start": "2025-09-24T00:00:00.000Z",
-        "end": "2025-10-01T00:00:00.000Z",
-        "amountDue": 288461538353,
+        "epochId": 10,
+        "channel": "render_compute_network",
+        "start": "2025-09-29T00:00:00.000Z",
+        "end": "2025-10-06T00:00:00.000Z",
+        "amountDue": 11460999998,
         "metadataBySolKey": {}
       },
       {
@@ -3121,19 +3897,19 @@
         }
       },
       {
+        "epochId": 93,
+        "channel": "availability",
+        "start": "2025-09-24T00:00:00.000Z",
+        "end": "2025-10-01T00:00:00.000Z",
+        "amountDue": 288461538353,
+        "metadataBySolKey": {}
+      },
+      {
         "epochId": 9,
         "channel": "render_compute_network",
         "start": "2025-09-22T00:00:00.000Z",
         "end": "2025-09-29T00:00:00.000Z",
         "amountDue": 11596249994,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 92,
-        "channel": "availability",
-        "start": "2025-09-17T00:00:00.000Z",
-        "end": "2025-09-24T00:00:00.000Z",
-        "amountDue": 288461538282,
         "metadataBySolKey": {}
       },
       {
@@ -3917,19 +4693,19 @@
         }
       },
       {
+        "epochId": 92,
+        "channel": "availability",
+        "start": "2025-09-17T00:00:00.000Z",
+        "end": "2025-09-24T00:00:00.000Z",
+        "amountDue": 288461538282,
+        "metadataBySolKey": {}
+      },
+      {
         "epochId": 8,
         "channel": "render_compute_network",
         "start": "2025-09-15T00:00:00.000Z",
         "end": "2025-09-22T00:00:00.000Z",
         "amountDue": 15128099999,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 91,
-        "channel": "availability",
-        "start": "2025-09-10T00:00:00.000Z",
-        "end": "2025-09-17T00:00:00.000Z",
-        "amountDue": 288461538322,
         "metadataBySolKey": {}
       },
       {
@@ -4728,19 +5504,19 @@
         }
       },
       {
+        "epochId": 91,
+        "channel": "availability",
+        "start": "2025-09-10T00:00:00.000Z",
+        "end": "2025-09-17T00:00:00.000Z",
+        "amountDue": 288461538322,
+        "metadataBySolKey": {}
+      },
+      {
         "epochId": 7,
         "channel": "render_compute_network",
         "start": "2025-09-08T00:00:00.000Z",
         "end": "2025-09-15T00:00:00.000Z",
         "amountDue": 10200000000,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 90,
-        "channel": "availability",
-        "start": "2025-09-03T00:00:00.000Z",
-        "end": "2025-09-10T00:00:00.000Z",
-        "amountDue": 288461538335,
         "metadataBySolKey": {}
       },
       {
@@ -5530,19 +6306,19 @@
         }
       },
       {
+        "epochId": 90,
+        "channel": "availability",
+        "start": "2025-09-03T00:00:00.000Z",
+        "end": "2025-09-10T00:00:00.000Z",
+        "amountDue": 288461538335,
+        "metadataBySolKey": {}
+      },
+      {
         "epochId": 6,
         "channel": "render_compute_network",
         "start": "2025-09-01T00:00:00.000Z",
         "end": "2025-09-08T00:00:00.000Z",
         "amountDue": 7200000000,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 89,
-        "channel": "availability",
-        "start": "2025-08-27T00:00:00.000Z",
-        "end": "2025-09-03T00:00:00.000Z",
-        "amountDue": 288461538338,
         "metadataBySolKey": {}
       },
       {
@@ -6314,19 +7090,19 @@
         }
       },
       {
+        "epochId": 89,
+        "channel": "availability",
+        "start": "2025-08-27T00:00:00.000Z",
+        "end": "2025-09-03T00:00:00.000Z",
+        "amountDue": 288461538338,
+        "metadataBySolKey": {}
+      },
+      {
         "epochId": 5,
         "channel": "render_compute_network",
         "start": "2025-08-25T00:00:00.000Z",
         "end": "2025-09-01T00:00:00.000Z",
         "amountDue": 10200000000,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 88,
-        "channel": "availability",
-        "start": "2025-08-20T00:00:00.000Z",
-        "end": "2025-08-27T00:00:00.000Z",
-        "amountDue": 288461538356,
         "metadataBySolKey": {}
       },
       {
@@ -6972,6 +7748,14 @@
         }
       },
       {
+        "epochId": 88,
+        "channel": "availability",
+        "start": "2025-08-20T00:00:00.000Z",
+        "end": "2025-08-27T00:00:00.000Z",
+        "amountDue": 288461538356,
+        "metadataBySolKey": {}
+      },
+      {
         "epochId": 4,
         "channel": "render_compute_network",
         "start": "2025-08-18T00:00:00.000Z",
@@ -6984,15 +7768,7 @@
         "channel": "render_compute_network_bonus",
         "start": "2025-08-17T00:00:00.000Z",
         "end": "2027-01-01T00:00:00.000Z",
-        "amountDue": 80000000000,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 87,
-        "channel": "availability",
-        "start": "2025-08-13T00:00:00.000Z",
-        "end": "2025-08-20T00:00:00.000Z",
-        "amountDue": 288461538377,
+        "amountDue": 82000000000,
         "metadataBySolKey": {}
       },
       {
@@ -7521,19 +8297,19 @@
         }
       },
       {
+        "epochId": 87,
+        "channel": "availability",
+        "start": "2025-08-13T00:00:00.000Z",
+        "end": "2025-08-20T00:00:00.000Z",
+        "amountDue": 288461538377,
+        "metadataBySolKey": {}
+      },
+      {
         "epochId": 3,
         "channel": "render_compute_network",
         "start": "2025-08-11T00:00:00.000Z",
         "end": "2025-08-18T00:00:00.000Z",
         "amountDue": 7000000000,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 86,
-        "channel": "availability",
-        "start": "2025-08-06T00:00:00.000Z",
-        "end": "2025-08-13T00:00:00.000Z",
-        "amountDue": 288461538371,
         "metadataBySolKey": {}
       },
       {
@@ -8057,6 +8833,14 @@
             "obhUsed": 39949
           }
         }
+      },
+      {
+        "epochId": 86,
+        "channel": "availability",
+        "start": "2025-08-06T00:00:00.000Z",
+        "end": "2025-08-13T00:00:00.000Z",
+        "amountDue": 288461538371,
+        "metadataBySolKey": {}
       },
       {
         "epochId": 2,
@@ -8615,14 +9399,6 @@
       },
       {
         "epochId": 84,
-        "channel": "availability",
-        "start": "2025-07-23T00:00:00.000Z",
-        "end": "2025-07-30T00:00:00.000Z",
-        "amountDue": 288461538372,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 84,
         "channel": "node_operator",
         "start": "2025-07-23T00:00:00.000Z",
         "end": "2025-07-30T00:00:00.000Z",
@@ -9151,6 +9927,14 @@
             "obhUsed": 65557
           }
         }
+      },
+      {
+        "epochId": 84,
+        "channel": "availability",
+        "start": "2025-07-23T00:00:00.000Z",
+        "end": "2025-07-30T00:00:00.000Z",
+        "amountDue": 288461538372,
+        "metadataBySolKey": {}
       },
       {
         "epochId": 83,
@@ -9702,14 +10486,6 @@
       },
       {
         "epochId": 82,
-        "channel": "availability",
-        "start": "2025-07-09T00:00:00.000Z",
-        "end": "2025-07-16T00:00:00.000Z",
-        "amountDue": 288461538371,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 82,
         "channel": "node_operator",
         "start": "2025-07-09T00:00:00.000Z",
         "end": "2025-07-16T00:00:00.000Z",
@@ -10243,11 +11019,11 @@
         }
       },
       {
-        "epochId": 81,
+        "epochId": 82,
         "channel": "availability",
-        "start": "2025-07-02T00:00:00.000Z",
-        "end": "2025-07-09T00:00:00.000Z",
-        "amountDue": 288461538378,
+        "start": "2025-07-09T00:00:00.000Z",
+        "end": "2025-07-16T00:00:00.000Z",
+        "amountDue": 288461538371,
         "metadataBySolKey": {}
       },
       {
@@ -10789,6 +11565,14 @@
             "obhUsed": 255312
           }
         }
+      },
+      {
+        "epochId": 81,
+        "channel": "availability",
+        "start": "2025-07-02T00:00:00.000Z",
+        "end": "2025-07-09T00:00:00.000Z",
+        "amountDue": 288461538378,
+        "metadataBySolKey": {}
       },
       {
         "epochId": 80,
@@ -11867,14 +12651,6 @@
       },
       {
         "epochId": 78,
-        "channel": "availability",
-        "start": "2025-06-11T00:00:00.000Z",
-        "end": "2025-06-18T00:00:00.000Z",
-        "amountDue": 288461538379,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 78,
         "channel": "node_operator",
         "start": "2025-06-11T00:00:00.000Z",
         "end": "2025-06-18T00:00:00.000Z",
@@ -12399,11 +13175,11 @@
         }
       },
       {
-        "epochId": 77,
+        "epochId": 78,
         "channel": "availability",
-        "start": "2025-06-04T00:00:00.000Z",
-        "end": "2025-06-11T00:00:00.000Z",
-        "amountDue": 288461538375,
+        "start": "2025-06-11T00:00:00.000Z",
+        "end": "2025-06-18T00:00:00.000Z",
+        "amountDue": 288461538379,
         "metadataBySolKey": {}
       },
       {
@@ -12954,6 +13730,14 @@
             "obhUsed": 68029
           }
         }
+      },
+      {
+        "epochId": 77,
+        "channel": "availability",
+        "start": "2025-06-04T00:00:00.000Z",
+        "end": "2025-06-11T00:00:00.000Z",
+        "amountDue": 288461538375,
+        "metadataBySolKey": {}
       },
       {
         "epochId": 76,
@@ -13520,18 +14304,18 @@
       },
       {
         "epochId": 75,
-        "channel": "availability",
-        "start": "2025-05-21T00:00:00.000Z",
-        "end": "2025-05-28T00:00:00.000Z",
-        "amountDue": 288461538366,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 75,
         "channel": "node_operator",
         "start": "2025-05-21T00:00:00.000Z",
         "end": "2025-05-28T00:00:00.000Z",
         "amountDue": 1499999999914,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 75,
+        "channel": "availability",
+        "start": "2025-05-21T00:00:00.000Z",
+        "end": "2025-05-28T00:00:00.000Z",
+        "amountDue": 288461538366,
         "metadataBySolKey": {}
       },
       {
@@ -13584,18 +14368,18 @@
       },
       {
         "epochId": 71,
-        "channel": "availability",
-        "start": "2025-04-23T00:00:00.000Z",
-        "end": "2025-04-30T00:00:00.000Z",
-        "amountDue": 288461538372,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 71,
         "channel": "node_operator",
         "start": "2025-04-23T00:00:00.000Z",
         "end": "2025-04-30T00:00:00.000Z",
         "amountDue": 1499999999909,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 71,
+        "channel": "availability",
+        "start": "2025-04-23T00:00:00.000Z",
+        "end": "2025-04-30T00:00:00.000Z",
+        "amountDue": 288461538372,
         "metadataBySolKey": {}
       },
       {
@@ -13648,18 +14432,18 @@
       },
       {
         "epochId": 67,
-        "channel": "availability",
-        "start": "2025-03-26T00:00:00.000Z",
-        "end": "2025-04-02T00:00:00.000Z",
-        "amountDue": 288461538375,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 67,
         "channel": "node_operator",
         "start": "2025-03-26T00:00:00.000Z",
         "end": "2025-04-02T00:00:00.000Z",
         "amountDue": 1499999999918,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 67,
+        "channel": "availability",
+        "start": "2025-03-26T00:00:00.000Z",
+        "end": "2025-04-02T00:00:00.000Z",
+        "amountDue": 288461538375,
         "metadataBySolKey": {}
       },
       {
@@ -13680,18 +14464,18 @@
       },
       {
         "epochId": 65,
-        "channel": "availability",
-        "start": "2025-03-12T00:00:00.000Z",
-        "end": "2025-03-19T00:00:00.000Z",
-        "amountDue": 288461538366,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 65,
         "channel": "node_operator",
         "start": "2025-03-12T00:00:00.000Z",
         "end": "2025-03-19T00:00:00.000Z",
         "amountDue": 1499999999913,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 65,
+        "channel": "availability",
+        "start": "2025-03-12T00:00:00.000Z",
+        "end": "2025-03-19T00:00:00.000Z",
+        "amountDue": 288461538366,
         "metadataBySolKey": {}
       },
       {
@@ -13712,14 +14496,6 @@
       },
       {
         "epochId": 63,
-        "channel": "availability",
-        "start": "2025-02-26T00:00:00.000Z",
-        "end": "2025-03-05T00:00:00.000Z",
-        "amountDue": 288461538383,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 63,
         "channel": "node_operator",
         "start": "2025-02-26T00:00:00.000Z",
         "end": "2025-03-05T00:00:00.000Z",
@@ -13727,11 +14503,11 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 62,
+        "epochId": 63,
         "channel": "availability",
-        "start": "2025-02-19T00:00:00.000Z",
-        "end": "2025-02-26T00:00:00.000Z",
-        "amountDue": 288461538312,
+        "start": "2025-02-26T00:00:00.000Z",
+        "end": "2025-03-05T00:00:00.000Z",
+        "amountDue": 288461538383,
         "metadataBySolKey": {}
       },
       {
@@ -13743,11 +14519,11 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 61,
+        "epochId": 62,
         "channel": "availability",
-        "start": "2025-02-12T00:00:00.000Z",
-        "end": "2025-02-19T00:00:00.000Z",
-        "amountDue": 288461538535,
+        "start": "2025-02-19T00:00:00.000Z",
+        "end": "2025-02-26T00:00:00.000Z",
+        "amountDue": 288461538312,
         "metadataBySolKey": {}
       },
       {
@@ -13759,11 +14535,11 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 60,
+        "epochId": 61,
         "channel": "availability",
-        "start": "2025-02-05T00:00:00.000Z",
-        "end": "2025-02-12T00:00:00.000Z",
-        "amountDue": 288461538515,
+        "start": "2025-02-12T00:00:00.000Z",
+        "end": "2025-02-19T00:00:00.000Z",
+        "amountDue": 288461538535,
         "metadataBySolKey": {}
       },
       {
@@ -13775,11 +14551,11 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 59,
+        "epochId": 60,
         "channel": "availability",
-        "start": "2025-01-29T00:00:00.000Z",
-        "end": "2025-02-05T00:00:00.000Z",
-        "amountDue": 288461538437,
+        "start": "2025-02-05T00:00:00.000Z",
+        "end": "2025-02-12T00:00:00.000Z",
+        "amountDue": 288461538515,
         "metadataBySolKey": {}
       },
       {
@@ -13788,6 +14564,14 @@
         "start": "2025-01-29T00:00:00.000Z",
         "end": "2025-02-05T00:00:00.000Z",
         "amountDue": 1499999999906,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 59,
+        "channel": "availability",
+        "start": "2025-01-29T00:00:00.000Z",
+        "end": "2025-02-05T00:00:00.000Z",
+        "amountDue": 288461538437,
         "metadataBySolKey": {}
       },
       {
@@ -13872,18 +14656,18 @@
       },
       {
         "epochId": 53,
-        "channel": "availability",
-        "start": "2024-12-18T00:00:00.000Z",
-        "end": "2024-12-25T00:00:00.000Z",
-        "amountDue": 288461538254,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 53,
         "channel": "node_operator",
         "start": "2024-12-18T00:00:00.000Z",
         "end": "2024-12-25T00:00:00.000Z",
         "amountDue": 1499999999904,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 53,
+        "channel": "availability",
+        "start": "2024-12-18T00:00:00.000Z",
+        "end": "2024-12-25T00:00:00.000Z",
+        "amountDue": 288461538254,
         "metadataBySolKey": {}
       },
       {
@@ -13936,18 +14720,18 @@
       },
       {
         "epochId": 49,
-        "channel": "availability",
-        "start": "2024-11-20T00:00:00.000Z",
-        "end": "2024-11-27T00:00:00.000Z",
-        "amountDue": 288461538441,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 49,
         "channel": "node_operator",
         "start": "2024-11-20T00:00:00.000Z",
         "end": "2024-11-27T00:00:00.000Z",
         "amountDue": 1499999999905,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 49,
+        "channel": "availability",
+        "start": "2024-11-20T00:00:00.000Z",
+        "end": "2024-11-27T00:00:00.000Z",
+        "amountDue": 288461538441,
         "metadataBySolKey": {}
       },
       {
@@ -13984,18 +14768,18 @@
       },
       {
         "epochId": 46,
-        "channel": "availability",
-        "start": "2024-10-30T00:00:00.000Z",
-        "end": "2024-11-06T00:00:00.000Z",
-        "amountDue": 288461538381,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 46,
         "channel": "node_operator",
         "start": "2024-10-30T00:00:00.000Z",
         "end": "2024-11-06T00:00:00.000Z",
         "amountDue": 1499999999895,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 46,
+        "channel": "availability",
+        "start": "2024-10-30T00:00:00.000Z",
+        "end": "2024-11-06T00:00:00.000Z",
+        "amountDue": 288461538381,
         "metadataBySolKey": {}
       },
       {
@@ -14008,14 +14792,6 @@
       },
       {
         "epochId": 45,
-        "channel": "availability",
-        "start": "2024-10-23T00:00:00.000Z",
-        "end": "2024-10-30T00:00:00.000Z",
-        "amountDue": 288461538368,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 45,
         "channel": "node_operator",
         "start": "2024-10-23T00:00:00.000Z",
         "end": "2024-10-30T00:00:00.000Z",
@@ -14023,11 +14799,11 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 44,
+        "epochId": 45,
         "channel": "availability",
-        "start": "2024-10-16T00:00:00.000Z",
-        "end": "2024-10-23T00:00:00.000Z",
-        "amountDue": 288461538384,
+        "start": "2024-10-23T00:00:00.000Z",
+        "end": "2024-10-30T00:00:00.000Z",
+        "amountDue": 288461538368,
         "metadataBySolKey": {}
       },
       {
@@ -14039,11 +14815,11 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 43,
+        "epochId": 44,
         "channel": "availability",
-        "start": "2024-10-09T00:00:00.000Z",
-        "end": "2024-10-16T00:00:00.000Z",
-        "amountDue": 288461538435,
+        "start": "2024-10-16T00:00:00.000Z",
+        "end": "2024-10-23T00:00:00.000Z",
+        "amountDue": 288461538384,
         "metadataBySolKey": {}
       },
       {
@@ -14052,6 +14828,14 @@
         "start": "2024-10-09T00:00:00.000Z",
         "end": "2024-10-16T00:00:00.000Z",
         "amountDue": 1499999999909,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 43,
+        "channel": "availability",
+        "start": "2024-10-09T00:00:00.000Z",
+        "end": "2024-10-16T00:00:00.000Z",
+        "amountDue": 288461538435,
         "metadataBySolKey": {}
       },
       {
@@ -14088,18 +14872,18 @@
       },
       {
         "epochId": 41,
-        "channel": "availability",
-        "start": "2024-09-25T00:00:00.000Z",
-        "end": "2024-10-02T00:00:00.000Z",
-        "amountDue": 288461538446,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 41,
         "channel": "node_operator",
         "start": "2024-09-25T00:00:00.000Z",
         "end": "2024-10-02T00:00:00.000Z",
         "amountDue": 1499999999902,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 41,
+        "channel": "availability",
+        "start": "2024-09-25T00:00:00.000Z",
+        "end": "2024-10-02T00:00:00.000Z",
+        "amountDue": 288461538446,
         "metadataBySolKey": {}
       },
       {
@@ -14120,14 +14904,6 @@
       },
       {
         "epochId": 39,
-        "channel": "availability",
-        "start": "2024-09-11T00:00:00.000Z",
-        "end": "2024-09-18T00:00:00.000Z",
-        "amountDue": 288461538297,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 39,
         "channel": "node_operator",
         "start": "2024-09-11T00:00:00.000Z",
         "end": "2024-09-18T00:00:00.000Z",
@@ -14135,11 +14911,11 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 38,
+        "epochId": 39,
         "channel": "availability",
-        "start": "2024-09-04T00:00:00.000Z",
-        "end": "2024-09-11T00:00:00.000Z",
-        "amountDue": 288461538243,
+        "start": "2024-09-11T00:00:00.000Z",
+        "end": "2024-09-18T00:00:00.000Z",
+        "amountDue": 288461538297,
         "metadataBySolKey": {}
       },
       {
@@ -14148,6 +14924,14 @@
         "start": "2024-09-04T00:00:00.000Z",
         "end": "2024-09-11T00:00:00.000Z",
         "amountDue": 1499999999906,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 38,
+        "channel": "availability",
+        "start": "2024-09-04T00:00:00.000Z",
+        "end": "2024-09-11T00:00:00.000Z",
+        "amountDue": 288461538243,
         "metadataBySolKey": {}
       },
       {
@@ -14160,18 +14944,18 @@
       },
       {
         "epochId": 37,
-        "channel": "availability",
-        "start": "2024-08-28T00:00:00.000Z",
-        "end": "2024-09-04T00:00:00.000Z",
-        "amountDue": 288461538382,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 37,
         "channel": "node_operator",
         "start": "2024-08-28T00:00:00.000Z",
         "end": "2024-09-04T00:00:00.000Z",
         "amountDue": 1499999999909,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 37,
+        "channel": "availability",
+        "start": "2024-08-28T00:00:00.000Z",
+        "end": "2024-09-04T00:00:00.000Z",
+        "amountDue": 288461538382,
         "metadataBySolKey": {}
       },
       {
@@ -14240,18 +15024,18 @@
       },
       {
         "epochId": 33,
-        "channel": "availability",
-        "start": "2024-07-31T00:00:00.000Z",
-        "end": "2024-08-07T00:00:00.000Z",
-        "amountDue": 288461538317,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 33,
         "channel": "node_operator",
         "start": "2024-07-31T00:00:00.000Z",
         "end": "2024-08-07T00:00:00.000Z",
         "amountDue": 1499999999906,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 33,
+        "channel": "availability",
+        "start": "2024-07-31T00:00:00.000Z",
+        "end": "2024-08-07T00:00:00.000Z",
+        "amountDue": 288461538317,
         "metadataBySolKey": {}
       },
       {
@@ -14280,6 +15064,14 @@
       },
       {
         "epochId": 31,
+        "channel": "node_operator",
+        "start": "2024-07-17T00:00:00.000Z",
+        "end": "2024-07-24T00:00:00.000Z",
+        "amountDue": 1499999999902,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 31,
         "channel": "availability",
         "start": "2024-07-17T00:00:00.000Z",
         "end": "2024-07-24T00:00:00.000Z",
@@ -14287,10 +15079,10 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 31,
+        "epochId": 30,
         "channel": "node_operator",
-        "start": "2024-07-17T00:00:00.000Z",
-        "end": "2024-07-24T00:00:00.000Z",
+        "start": "2024-07-10T00:00:00.000Z",
+        "end": "2024-07-17T00:00:00.000Z",
         "amountDue": 1499999999902,
         "metadataBySolKey": {}
       },
@@ -14300,14 +15092,6 @@
         "start": "2024-07-10T00:00:00.000Z",
         "end": "2024-07-17T00:00:00.000Z",
         "amountDue": 288461538390,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 30,
-        "channel": "node_operator",
-        "start": "2024-07-10T00:00:00.000Z",
-        "end": "2024-07-17T00:00:00.000Z",
-        "amountDue": 1499999999902,
         "metadataBySolKey": {}
       },
       {
@@ -14360,14 +15144,6 @@
       },
       {
         "epochId": 27,
-        "channel": "availability",
-        "start": "2024-06-19T00:00:00.000Z",
-        "end": "2024-06-26T00:00:00.000Z",
-        "amountDue": 292595059992,
-        "metadataBySolKey": {}
-      },
-      {
-        "epochId": 27,
         "channel": "node_operator",
         "start": "2024-06-19T00:00:00.000Z",
         "end": "2024-06-26T00:00:00.000Z",
@@ -14375,11 +15151,11 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 26,
+        "epochId": 27,
         "channel": "availability",
-        "start": "2024-06-12T00:00:00.000Z",
-        "end": "2024-06-19T00:00:00.000Z",
-        "amountDue": 292779654086,
+        "start": "2024-06-19T00:00:00.000Z",
+        "end": "2024-06-26T00:00:00.000Z",
+        "amountDue": 292595059992,
         "metadataBySolKey": {}
       },
       {
@@ -14391,11 +15167,11 @@
         "metadataBySolKey": {}
       },
       {
-        "epochId": 25,
+        "epochId": 26,
         "channel": "availability",
-        "start": "2024-06-05T00:00:00.000Z",
-        "end": "2024-06-12T00:00:00.000Z",
-        "amountDue": 290853266790,
+        "start": "2024-06-12T00:00:00.000Z",
+        "end": "2024-06-19T00:00:00.000Z",
+        "amountDue": 292779654086,
         "metadataBySolKey": {}
       },
       {
@@ -14404,6 +15180,14 @@
         "start": "2024-06-05T00:00:00.000Z",
         "end": "2024-06-12T00:00:00.000Z",
         "amountDue": 1499999999893,
+        "metadataBySolKey": {}
+      },
+      {
+        "epochId": 25,
+        "channel": "availability",
+        "start": "2024-06-05T00:00:00.000Z",
+        "end": "2024-06-12T00:00:00.000Z",
+        "amountDue": 290853266790,
         "metadataBySolKey": {}
       },
       {
@@ -14728,7 +15512,7 @@
       }
     ]
   },
-  "timestamp": "2025-10-28T00:17:09.672Z",
+  "timestamp": "2025-10-31T00:17:38.920Z",
   "success": true,
   "endpoint": "external-render-api/liabilityEpochs",
   "cached_by": "github_actions"
